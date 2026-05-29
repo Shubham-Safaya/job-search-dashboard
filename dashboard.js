@@ -35,7 +35,10 @@ Chart.defaults.font.family = "'Inter', sans-serif";
 const TIER_COLORS = {
     1: '#3b82f6',
     2: '#8b5cf6',
-    3: '#06b6d4'
+    3: '#06b6d4',
+    4: '#f59e0b',
+    5: '#10b981',
+    6: '#ec4899'
 };
 
 const SOURCE_COLORS = {
