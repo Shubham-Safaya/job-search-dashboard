@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Search Analytics Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="header-left">
+                <h1>Job Search Analytics</h1>
+                <p class="subtitle">Automated pipeline tracking across 50+ companies</p>
+            </div>
+            <div class="header-right">
+                <span class="badge live-badge">LIVE</span>
+                <span class="last-updated" id="lastUpdated"></span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Summary Cards -->
+        <section class="summary-cards" id="summaryCards">
+            <div class="card summary-card">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 13V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8"/><path d="M16 19h6m-3-3v6"/></svg>
+                </div>
+                <div class="card-value" id="totalJobsToday">--</div>
+                <div class="card-label">Jobs Found Today</div>
+            </div>
+            <div class="card summary-card">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                </div>
+                <div class="card-value" id="totalApplications">--</div>
+                <div class="card-label">Applications Submitted</div>
+            </div>
+            <div class="card summary-card">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18"/><path d="M3 7v1a3 3 0 0 0 6 0V7m0 1a3 3 0 0 0 6 0V7m0 1a3 3 0 0 0 6 0V7H3l2-4h14l2 4"/><path d="M5 21V10.85"/><path d="M19 21V10.85"/></svg>
+                </div>
+                <div class="card-value" id="uniqueCompanies">--</div>
+                <div class="card-label">Unique Companies</div>
+            </div>
+            <div class="card summary-card">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20V10"/><path d="M18 20V4"/><path d="M6 20v-4"/></svg>
+                </div>
+                <div class="card-value" id="avgDomainScore">--</div>
+                <div class="card-label">Avg Domain Score</div>
+            </div>
+            <div class="card summary-card">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                </div>
+                <div class="card-value" id="daysActive">--</div>
+                <div class="card-label">Days Active</div>
+            </div>
+        </section>
+
+        <!-- Map Section -->
+        <section class="card full-width" id="mapSection">
+            <h2 class="section-title">Job Density by State</h2>
+            <div id="map"></div>
+        </section>
+
+        <!-- Charts Row 1 -->
+        <section class="charts-row">
+            <div class="card chart-card wide">
+                <h2 class="section-title">Jobs by Company (Top 20)</h2>
+                <div class="chart-container bar-chart-container">
+                    <canvas id="companyChart"></canvas>
+                </div>
+            </div>
+            <div class="card chart-card narrow">
+                <h2 class="section-title">Domain Relevance</h2>
+                <div class="chart-container donut-chart-container">
+                    <canvas id="domainChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Charts Row 2 -->
+        <section class="charts-row">
+            <div class="card chart-card narrow">
+                <h2 class="section-title">Jobs by Source</h2>
+                <div class="chart-container donut-chart-container">
+                    <canvas id="sourceChart"></canvas>
+                </div>
+            </div>
+            <div class="card chart-card wide">
+                <h2 class="section-title">Daily Jobs Found</h2>
+                <div class="chart-container line-chart-container">
+                    <canvas id="trendChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Top Cities -->
+        <section class="card full-width">
+            <h2 class="section-title">Top Cities by Job Count</h2>
+            <div class="chart-container city-chart-container">
+                <canvas id="cityChart"></canvas>
+            </div>
+        </section>
+
+        <!-- Top Matches Table -->
+        <section class="card full-width">
+            <h2 class="section-title">Top Matches by Domain Score</h2>
+            <div class="table-wrapper">
+                <table id="matchesTable">
+                    <thead>
+                        <tr>
+                            <th data-sort="company">Company <span class="sort-icon"></span></th>
+                            <th data-sort="title">Title <span class="sort-icon"></span></th>
+                            <th data-sort="location">Location <span class="sort-icon"></span></th>
+                            <th data-sort="source">Source <span class="sort-icon"></span></th>
+                            <th data-sort="domain_score">Score <span class="sort-icon"></span></th>
+                            <th data-sort="salary_range">Salary <span class="sort-icon"></span></th>
+                            <th data-sort="date_found">Date <span class="sort-icon"></span></th>
+                        </tr>
+                    </thead>
+                    <tbody id="matchesBody"></tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Built by Shubham Safaya | PM + Engineer</p>
+        <p class="footer-sub">Data sourced from Greenhouse, Lever, LinkedIn, Indeed & Wellfound APIs</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="dashboard.js"></script>
+</body>
+</html>
