@@ -1,385 +1,573 @@
 {
-  "last_updated": "2026-05-27T07:00:00Z",
-  "days_active": 43,
+  "last_updated": "2026-06-03T19:16:48.414117Z",
+  "days_active": 1,
   "summary": {
-    "total_jobs_today": 104,
-    "total_applications": 47,
-    "unique_companies": 52,
-    "avg_domain_score": 18.5
+    "total_jobs_today": 197,
+    "total_applications": 10,
+    "unique_companies": 46,
+    "avg_domain_score": 24.6,
+    "remote_jobs": 4
   },
   "daily_trend": [
-    {"date": "2026-04-15", "jobs_found": 89},
-    {"date": "2026-04-16", "jobs_found": 76},
-    {"date": "2026-04-17", "jobs_found": 94},
-    {"date": "2026-04-18", "jobs_found": 102},
-    {"date": "2026-04-19", "jobs_found": 68},
-    {"date": "2026-04-20", "jobs_found": 55},
-    {"date": "2026-04-21", "jobs_found": 83},
-    {"date": "2026-04-22", "jobs_found": 91},
-    {"date": "2026-04-23", "jobs_found": 87},
-    {"date": "2026-04-24", "jobs_found": 110},
-    {"date": "2026-04-25", "jobs_found": 95},
-    {"date": "2026-04-26", "jobs_found": 72},
-    {"date": "2026-04-27", "jobs_found": 64},
-    {"date": "2026-04-28", "jobs_found": 98},
-    {"date": "2026-04-29", "jobs_found": 105},
-    {"date": "2026-04-30", "jobs_found": 88},
-    {"date": "2026-05-01", "jobs_found": 112},
-    {"date": "2026-05-02", "jobs_found": 99},
-    {"date": "2026-05-03", "jobs_found": 73},
-    {"date": "2026-05-04", "jobs_found": 61},
-    {"date": "2026-05-05", "jobs_found": 107},
-    {"date": "2026-05-06", "jobs_found": 115},
-    {"date": "2026-05-07", "jobs_found": 93},
-    {"date": "2026-05-08", "jobs_found": 101},
-    {"date": "2026-05-09", "jobs_found": 86},
-    {"date": "2026-05-10", "jobs_found": 69},
-    {"date": "2026-05-11", "jobs_found": 58},
-    {"date": "2026-05-12", "jobs_found": 96},
-    {"date": "2026-05-13", "jobs_found": 108},
-    {"date": "2026-05-14", "jobs_found": 92},
-    {"date": "2026-05-15", "jobs_found": 103},
-    {"date": "2026-05-16", "jobs_found": 97},
-    {"date": "2026-05-17", "jobs_found": 74},
-    {"date": "2026-05-18", "jobs_found": 62},
-    {"date": "2026-05-19", "jobs_found": 111},
-    {"date": "2026-05-20", "jobs_found": 118},
-    {"date": "2026-05-21", "jobs_found": 95},
-    {"date": "2026-05-22", "jobs_found": 106},
-    {"date": "2026-05-23", "jobs_found": 89},
-    {"date": "2026-05-24", "jobs_found": 71},
-    {"date": "2026-05-25", "jobs_found": 59},
-    {"date": "2026-05-26", "jobs_found": 98},
-    {"date": "2026-05-27", "jobs_found": 104}
+    {
+      "date": "2026-06-03",
+      "jobs_found": 197
+    }
   ],
   "jobs_by_company": [
-    {"company": "Tesla", "count": 14, "tier": 1},
-    {"company": "Google", "count": 13, "tier": 1},
-    {"company": "Meta", "count": 12, "tier": 1},
-    {"company": "Snowflake", "count": 11, "tier": 1},
-    {"company": "LiveRamp", "count": 10, "tier": 1},
-    {"company": "Amazon", "count": 9, "tier": 1},
-    {"company": "Apple", "count": 9, "tier": 1},
-    {"company": "Microsoft", "count": 8, "tier": 1},
-    {"company": "Stripe", "count": 8, "tier": 2},
-    {"company": "Databricks", "count": 7, "tier": 2},
-    {"company": "Coinbase", "count": 7, "tier": 2},
-    {"company": "Airbnb", "count": 6, "tier": 2},
-    {"company": "Uber", "count": 6, "tier": 2},
-    {"company": "Palantir", "count": 5, "tier": 2},
-    {"company": "Figma", "count": 5, "tier": 2},
-    {"company": "Notion", "count": 4, "tier": 3},
-    {"company": "Ramp", "count": 4, "tier": 3},
-    {"company": "Plaid", "count": 3, "tier": 3},
-    {"company": "Scale AI", "count": 3, "tier": 3},
-    {"company": "Anduril", "count": 3, "tier": 3}
-  ],
-  "jobs_by_source": {
-    "greenhouse": 45,
-    "lever": 12,
-    "linkedin": 38,
-    "indeed": 5,
-    "wellfound": 4
-  },
-  "domain_score_distribution": {
-    "high": 35,
-    "medium": 42,
-    "low": 27
-  },
-  "jobs_by_state": {
-    "CA": 42,
-    "WA": 18,
-    "NY": 15,
-    "TX": 12,
-    "MA": 8,
-    "CO": 7,
-    "IL": 6,
-    "PA": 5,
-    "GA": 4,
-    "VA": 4,
-    "FL": 3,
-    "NC": 3,
-    "NJ": 3,
-    "OR": 3,
-    "MI": 2,
-    "OH": 2,
-    "MN": 2,
-    "AZ": 2,
-    "UT": 2,
-    "MD": 2,
-    "CT": 1,
-    "TN": 1,
-    "WI": 1,
-    "DC": 1,
-    "NV": 1
-  },
-  "top_cities": [
-    {"city": "San Francisco, CA", "count": 25},
-    {"city": "New York, NY", "count": 15},
-    {"city": "Seattle, WA", "count": 14},
-    {"city": "Palo Alto, CA", "count": 10},
-    {"city": "Austin, TX", "count": 8},
-    {"city": "San Jose, CA", "count": 7},
-    {"city": "Boston, MA", "count": 6},
-    {"city": "Denver, CO", "count": 5},
-    {"city": "Chicago, IL", "count": 5},
-    {"city": "Los Angeles, CA", "count": 5},
-    {"city": "Mountain View, CA", "count": 4},
-    {"city": "Atlanta, GA", "count": 4},
-    {"city": "Menlo Park, CA", "count": 3},
-    {"city": "Portland, OR", "count": 3},
-    {"city": "Philadelphia, PA", "count": 3}
-  ],
-  "top_matches": [
     {
-      "company": "Tesla",
-      "title": "Sr. Product Manager, Customer Identity",
-      "location": "Palo Alto, CA",
-      "source": "linkedin",
-      "domain_score": 45,
-      "salary_range": "$180K-$250K",
-      "date_found": "2026-05-27",
-      "url": "https://www.linkedin.com/jobs/view/tesla-sr-product-manager"
-    },
-    {
-      "company": "Snowflake",
-      "title": "Product Manager, Data Governance & Privacy",
-      "location": "San Mateo, CA",
-      "source": "greenhouse",
-      "domain_score": 43,
-      "salary_range": "$185K-$260K",
-      "date_found": "2026-05-27",
-      "url": "https://boards.greenhouse.io/snowflake/jobs/pm-data-governance"
-    },
-    {
-      "company": "LiveRamp",
-      "title": "Senior Product Manager, Identity Resolution",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 42,
-      "salary_range": "$170K-$230K",
-      "date_found": "2026-05-26",
-      "url": "https://boards.greenhouse.io/liveramp/jobs/sr-pm-identity"
-    },
-    {
-      "company": "Google",
-      "title": "Product Manager, Privacy Sandbox",
-      "location": "Mountain View, CA",
-      "source": "linkedin",
-      "domain_score": 41,
-      "salary_range": "$190K-$280K",
-      "date_found": "2026-05-27",
-      "url": "https://www.linkedin.com/jobs/view/google-pm-privacy-sandbox"
-    },
-    {
-      "company": "Meta",
-      "title": "Product Manager, Ads Measurement & Privacy",
-      "location": "Menlo Park, CA",
-      "source": "linkedin",
-      "domain_score": 40,
-      "salary_range": "$195K-$275K",
-      "date_found": "2026-05-26",
-      "url": "https://www.linkedin.com/jobs/view/meta-pm-ads-measurement"
-    },
-    {
-      "company": "Stripe",
-      "title": "Product Manager, Identity & Verification",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 39,
-      "salary_range": "$185K-$260K",
-      "date_found": "2026-05-25",
-      "url": "https://boards.greenhouse.io/stripe/jobs/pm-identity"
+      "company": "Datadog",
+      "count": 14,
+      "tier": 2
     },
     {
       "company": "Databricks",
-      "title": "Sr. Product Manager, Data Privacy & Compliance",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 38,
-      "salary_range": "$175K-$250K",
-      "date_found": "2026-05-27",
-      "url": "https://boards.greenhouse.io/databricks/jobs/sr-pm-privacy"
+      "count": 14,
+      "tier": 5
     },
     {
-      "company": "Amazon",
-      "title": "Sr. Product Manager, AWS Identity & Access",
-      "location": "Seattle, WA",
-      "source": "linkedin",
-      "domain_score": 37,
-      "salary_range": "$170K-$245K",
-      "date_found": "2026-05-26",
-      "url": "https://www.linkedin.com/jobs/view/amazon-sr-pm-aws-identity"
+      "company": "Intuit",
+      "count": 13,
+      "tier": 2
     },
     {
-      "company": "Coinbase",
-      "title": "Product Manager, Identity & KYC",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 36,
-      "salary_range": "$175K-$245K",
-      "date_found": "2026-05-25",
-      "url": "https://boards.greenhouse.io/coinbase/jobs/pm-identity-kyc"
-    },
-    {
-      "company": "Apple",
-      "title": "Product Manager, Privacy Engineering",
-      "location": "Cupertino, CA",
-      "source": "linkedin",
-      "domain_score": 35,
-      "salary_range": "$185K-$270K",
-      "date_found": "2026-05-27",
-      "url": "https://www.linkedin.com/jobs/view/apple-pm-privacy-engineering"
-    },
-    {
-      "company": "Palantir",
-      "title": "Product Manager, Data Integration Platform",
-      "location": "Palo Alto, CA",
-      "source": "lever",
-      "domain_score": 34,
-      "salary_range": "$170K-$240K",
-      "date_found": "2026-05-24",
-      "url": "https://jobs.lever.co/palantir/pm-data-integration"
-    },
-    {
-      "company": "Scale AI",
-      "title": "Product Manager, Data Quality & Labeling",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 33,
-      "salary_range": "$165K-$235K",
-      "date_found": "2026-05-26",
-      "url": "https://boards.greenhouse.io/scaleai/jobs/pm-data-quality"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Product Manager, Azure AD & Identity",
-      "location": "Redmond, WA",
-      "source": "linkedin",
-      "domain_score": 32,
-      "salary_range": "$175K-$250K",
-      "date_found": "2026-05-25",
-      "url": "https://www.linkedin.com/jobs/view/microsoft-pm-azure-ad"
-    },
-    {
-      "company": "Plaid",
-      "title": "Product Manager, Identity Verification",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 31,
-      "salary_range": "$165K-$230K",
-      "date_found": "2026-05-24",
-      "url": "https://boards.greenhouse.io/plaid/jobs/pm-identity-verification"
-    },
-    {
-      "company": "Figma",
-      "title": "Product Manager, Platform & Integrations",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 28,
-      "salary_range": "$170K-$240K",
-      "date_found": "2026-05-27",
-      "url": "https://boards.greenhouse.io/figma/jobs/pm-platform"
-    },
-    {
-      "company": "Ramp",
-      "title": "Product Manager, Risk & Identity",
-      "location": "New York, NY",
-      "source": "greenhouse",
-      "domain_score": 27,
-      "salary_range": "$160K-$225K",
-      "date_found": "2026-05-26",
-      "url": "https://boards.greenhouse.io/ramp/jobs/pm-risk-identity"
-    },
-    {
-      "company": "Uber",
-      "title": "Sr. Product Manager, Safety & Identity",
-      "location": "San Francisco, CA",
-      "source": "lever",
-      "domain_score": 26,
-      "salary_range": "$175K-$245K",
-      "date_found": "2026-05-25",
-      "url": "https://jobs.lever.co/uber/sr-pm-safety-identity"
-    },
-    {
-      "company": "Airbnb",
-      "title": "Product Manager, Trust & Safety",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 25,
-      "salary_range": "$170K-$240K",
-      "date_found": "2026-05-24",
-      "url": "https://boards.greenhouse.io/airbnb/jobs/pm-trust-safety"
+      "company": "Gusto",
+      "count": 13,
+      "tier": 6
     },
     {
       "company": "Anduril",
-      "title": "Product Manager, Data Platform",
-      "location": "Costa Mesa, CA",
-      "source": "greenhouse",
-      "domain_score": 22,
-      "salary_range": "$160K-$230K",
-      "date_found": "2026-05-27",
-      "url": "https://boards.greenhouse.io/anduril/jobs/pm-data-platform"
-    },
-    {
-      "company": "Notion",
-      "title": "Product Manager, API & Integrations",
-      "location": "San Francisco, CA",
-      "source": "greenhouse",
-      "domain_score": 20,
-      "salary_range": "$165K-$235K",
-      "date_found": "2026-05-26",
-      "url": "https://boards.greenhouse.io/notion/jobs/pm-api-integrations"
-    },
-    {
-      "company": "Tesla",
-      "title": "Product Manager, Fleet Data Analytics",
-      "location": "Austin, TX",
-      "source": "linkedin",
-      "domain_score": 19,
-      "salary_range": "$155K-$220K",
-      "date_found": "2026-05-25",
-      "url": "https://www.linkedin.com/jobs/view/tesla-pm-fleet-data"
-    },
-    {
-      "company": "Google",
-      "title": "Product Manager, Cloud IAM",
-      "location": "Seattle, WA",
-      "source": "linkedin",
-      "domain_score": 18,
-      "salary_range": "$180K-$260K",
-      "date_found": "2026-05-24",
-      "url": "https://www.linkedin.com/jobs/view/google-pm-cloud-iam"
-    },
-    {
-      "company": "Snowflake",
-      "title": "Product Manager, Marketplace & Data Sharing",
-      "location": "Bellevue, WA",
-      "source": "greenhouse",
-      "domain_score": 16,
-      "salary_range": "$165K-$235K",
-      "date_found": "2026-05-27",
-      "url": "https://boards.greenhouse.io/snowflake/jobs/pm-marketplace"
+      "count": 13,
+      "tier": 6
     },
     {
       "company": "Amazon",
-      "title": "Product Manager, Alexa Privacy",
-      "location": "Seattle, WA",
-      "source": "linkedin",
-      "domain_score": 15,
-      "salary_range": "$160K-$230K",
-      "date_found": "2026-05-23",
-      "url": "https://www.linkedin.com/jobs/view/amazon-pm-alexa-privacy"
+      "count": 10,
+      "tier": 1
     },
     {
-      "company": "Meta",
-      "title": "Product Manager, Business Messaging Platform",
-      "location": "New York, NY",
+      "company": "Palo Alto Networks",
+      "count": 10,
+      "tier": 2
+    },
+    {
+      "company": "Okta",
+      "count": 10,
+      "tier": 5
+    },
+    {
+      "company": "Pinterest",
+      "count": 9,
+      "tier": 2
+    },
+    {
+      "company": "The Trade Desk",
+      "count": 7,
+      "tier": 2
+    },
+    {
+      "company": "Fivetran",
+      "count": 6,
+      "tier": 5
+    },
+    {
+      "company": "MongoDB",
+      "count": 5,
+      "tier": 2
+    },
+    {
+      "company": "Instacart",
+      "count": 5,
+      "tier": 3
+    },
+    {
+      "company": "Adobe",
+      "count": 5,
+      "tier": 2
+    },
+    {
+      "company": "Discord",
+      "count": 5,
+      "tier": 6
+    },
+    {
+      "company": "Snap",
+      "count": 4,
+      "tier": 2
+    },
+    {
+      "company": "Reddit",
+      "count": 4,
+      "tier": 6
+    },
+    {
+      "company": "Rubrik",
+      "count": 4,
+      "tier": 5
+    },
+    {
+      "company": "Google",
+      "count": 3,
+      "tier": 1
+    },
+    {
+      "company": "Netflix",
+      "count": 3,
+      "tier": 2
+    },
+    {
+      "company": "OneTrust",
+      "count": 3,
+      "tier": 5
+    },
+    {
+      "company": "Twilio",
+      "count": 3,
+      "tier": 5
+    },
+    {
+      "company": "Segment",
+      "count": 3,
+      "tier": 5
+    },
+    {
+      "company": "Verkada",
+      "count": 3,
+      "tier": 6
+    },
+    {
+      "company": "Microsoft",
+      "count": 2,
+      "tier": 1
+    },
+    {
+      "company": "Publicis",
+      "count": 2,
+      "tier": 3
+    },
+    {
+      "company": "Elastic",
+      "count": 2,
+      "tier": 5
+    },
+    {
+      "company": "Scale AI",
+      "count": 2,
+      "tier": 6
+    },
+    {
+      "company": "Confluent",
+      "count": 2,
+      "tier": 5
+    },
+    {
+      "company": "Zscaler",
+      "count": 2,
+      "tier": 5
+    }
+  ],
+  "jobs_by_source": {
+    "greenhouse": 126,
+    "linkedin": 71
+  },
+  "domain_score_distribution": {
+    "high": 106,
+    "medium": 91,
+    "low": 0
+  },
+  "jobs_by_state": {
+    "NY": 33,
+    "CA": 96,
+    "WA": 18,
+    "DC": 3,
+    "TX": 1,
+    "GA": 2,
+    "OH": 2,
+    "MS": 1,
+    "MA": 1
+  },
+  "top_cities": [
+    {
+      "city": "New York, NY",
+      "count": 25
+    },
+    {
+      "city": "San Francisco, CA",
+      "count": 24
+    },
+    {
+      "city": "Mountain View, CA",
+      "count": 12
+    },
+    {
+      "city": "Santa Clara, CA",
+      "count": 12
+    },
+    {
+      "city": "Seattle, WA",
+      "count": 11
+    },
+    {
+      "city": "San Jose, CA",
+      "count": 7
+    },
+    {
+      "city": "Costa Mesa, CA",
+      "count": 6
+    },
+    {
+      "city": "Bellevue, WA",
+      "count": 5
+    },
+    {
+      "city": "Oakland, CA",
+      "count": 5
+    },
+    {
+      "city": "San Francisco Bay Area, CA",
+      "count": 5
+    },
+    {
+      "city": "Los Angeles, CA",
+      "count": 4
+    },
+    {
+      "city": "Palo Alto, CA",
+      "count": 3
+    },
+    {
+      "city": "San Diego, CA",
+      "count": 3
+    },
+    {
+      "city": "San Francisco, NY",
+      "count": 3
+    },
+    {
+      "city": "Boston, NY",
+      "count": 2
+    },
+    {
+      "city": "Bellevue, CA",
+      "count": 2
+    },
+    {
+      "city": "Palo Altp, CA",
+      "count": 2
+    },
+    {
+      "city": "Bellevue, DC",
+      "count": 2
+    },
+    {
+      "city": "Irvine, CA",
+      "count": 2
+    },
+    {
+      "city": "Atlanta, GA",
+      "count": 2
+    }
+  ],
+  "top_matches": [
+    {
+      "company": "The Trade Desk",
+      "title": "Principal Product Manager, Pharma",
+      "location": "New York",
+      "source": "greenhouse",
+      "domain_score": 100,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5071040007"
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Staff Product Manager, Pharma",
+      "location": "Los Angeles; New York; San Francisco; San Jose",
+      "source": "greenhouse",
+      "domain_score": 94,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5067851007"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Group Product Manager II, Creative Tech - tvScientific",
+      "location": "San Francisco, CA, US; Remote, US",
+      "source": "greenhouse",
+      "domain_score": 50,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7890195"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Product Management - Cloud Infrastructure",
+      "location": "San Francisco, California",
+      "source": "greenhouse",
+      "domain_score": 49,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/okta/jobs/7747377"
+    },
+    {
+      "company": "Reddit",
+      "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
+      "location": "Remote - United States",
+      "source": "greenhouse",
+      "domain_score": 49,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/reddit/jobs/7858506"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Product Manager, AI Safety",
+      "location": "San Francisco, CA, US; Remote, US",
+      "source": "greenhouse",
+      "domain_score": 44,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7718015"
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Staff Product Manager, Infra Generalist",
+      "location": "Bellevue; Irvine; Los Angeles; San Francisco; San Jose; Seattle; Ventura",
+      "source": "greenhouse",
+      "domain_score": 44,
+      "salary_range": "$4K-$8K",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/4833571007"
+    },
+    {
+      "company": "Datadog",
+      "title": "Director, Product Management - Core Platforms",
+      "location": "New York, New York, USA",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/datadog/jobs/7583609"
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Sr. Staff Product Manager, Revenue Products",
+      "location": "Bellevue; New York; San Francisco; San Jose",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5147007007"
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Staff Product Manager, Generalist",
+      "location": "Bellevue; San Francisco; San Jose",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5128622007"
+    },
+    {
+      "company": "OneTrust",
+      "title": "Principal Product Manager",
+      "location": "Bengaluru, India",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/onetrust/jobs/7825607"
+    },
+    {
+      "company": "Fivetran",
+      "title": "Staff Product Manager, Reverse ETL",
+      "location": "Oakland, California, United States, AMER",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/fivetran/jobs/7644168003"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Product Manager, AI/ML Personalization",
+      "location": "San Francisco, CA, US; Remote, US",
+      "source": "greenhouse",
+      "domain_score": 41,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7368194"
+    },
+    {
+      "company": "Instacart",
+      "title": "Senior Product Manager, Shopping Experience",
+      "location": "United States - Remote",
+      "source": "greenhouse",
+      "domain_score": 40,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/instacart/jobs/7904851"
+    },
+    {
+      "company": "Okta",
+      "title": "Director, Product Management - Access Management",
+      "location": "Bellevue, Washington; San Francisco, California",
+      "source": "greenhouse",
+      "domain_score": 40,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/okta/jobs/7641297"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Product Manager, Merchants",
+      "location": "San Francisco, CA, US; Remote, US",
+      "source": "greenhouse",
+      "domain_score": 39,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7770916"
+    },
+    {
+      "company": "The Trade Desk",
+      "title": "Principal Product Manager, Core Platform Ventura TV OS",
+      "location": "San Jose",
+      "source": "greenhouse",
+      "domain_score": 39,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5147818007"
+    },
+    {
+      "company": "Block",
+      "title": "Head of Product, Trust (Risk/Identity)",
+      "location": "Bay Area, CA, United States of America",
+      "source": "greenhouse",
+      "domain_score": 39,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/block/jobs/5128272008"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Manager, AI Platform",
+      "location": "Seattle, Washington",
+      "source": "greenhouse",
+      "domain_score": 39,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/databricks/jobs/8427940002"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Staff Product Manager",
+      "location": "India",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/7922824"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Manager, Security",
+      "location": "Seattle, Washington",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/databricks/jobs/7110509002"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Manager - Technical",
+      "location": "Amsterdam, Netherlands",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/databricks/jobs/8394060002"
+    },
+    {
+      "company": "Elastic",
+      "title": "Principal Product Manager, AI agents - Search",
+      "location": "Spain",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/elastic/jobs/7950454"
+    },
+    {
+      "company": "Rubrik",
+      "title": "Staff Product Manager, Rubrik Security Cloud AI Platform",
+      "location": "Palo Altp, CA",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/rubrik/jobs/7891325"
+    },
+    {
+      "company": "Gusto",
+      "title": "Principal Product Manager, Customer Onboarding ",
+      "location": "San Francisco, CA",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/gusto/jobs/7312754"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Group Product Manager I, Connections",
+      "location": "San Francisco, CA, US; Remote, US",
+      "source": "greenhouse",
+      "domain_score": 36,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7525112"
+    },
+    {
+      "company": "Rubrik",
+      "title": "Director, Product Management- Data Threat Analytics",
+      "location": "Palo Alto, CA",
+      "source": "greenhouse",
+      "domain_score": 36,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/rubrik/jobs/7508544"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Product Manager, Model Lifecycle & Management",
+      "location": "San Francisco, CA, US; Remote, US",
+      "source": "greenhouse",
+      "domain_score": 35,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7905508"
+    },
+    {
+      "company": "Experian",
+      "title": "Senior Product Manager, AdTech Identity Graph - Remote",
+      "location": "United States",
       "source": "linkedin",
-      "domain_score": 12,
-      "salary_range": "$175K-$250K",
-      "date_found": "2026-05-22",
-      "url": "https://www.linkedin.com/jobs/view/meta-pm-business-messaging"
+      "domain_score": 35,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-03",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-adtech-identity-graph-remote-at-experian-4422496470"
+    },
+    {
+      "company": "Discord",
+      "title": "Senior Product Manager, Ad Formats",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "source": "greenhouse",
+      "domain_score": 35,
+      "salary_range": "$200K+",
+      "date_found": "2026-06-03",
+      "url": "https://boards.greenhouse.io/discord/jobs/8530692002"
     }
   ]
 }
