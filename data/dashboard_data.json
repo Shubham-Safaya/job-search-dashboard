@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-23T22:27:43.405282Z",
+  "last_updated": "2026-06-24T22:28:55.209809Z",
   "days_active": 1,
   "summary": {
-    "total_jobs_today": 193,
-    "total_applications": 0,
-    "unique_companies": 48,
-    "avg_domain_score": 27.0,
+    "total_jobs_today": 186,
+    "total_applications": 1,
+    "unique_companies": 47,
+    "avg_domain_score": 26.9,
     "remote_jobs": 4
   },
   "daily_trend": [
     {
-      "date": "2026-06-23",
-      "jobs_found": 193
+      "date": "2026-06-24",
+      "jobs_found": 186
     }
   ],
   "jobs_by_company": [
@@ -22,12 +22,12 @@
     },
     {
       "company": "Anduril",
-      "count": 16,
+      "count": 14,
       "tier": 6
     },
     {
       "company": "Intuit",
-      "count": 15,
+      "count": 12,
       "tier": 2
     },
     {
@@ -36,17 +36,12 @@
       "tier": 5
     },
     {
-      "company": "Gusto",
-      "count": 10,
-      "tier": 6
-    },
-    {
       "company": "MongoDB",
       "count": 9,
       "tier": 2
     },
     {
-      "company": "Coinbase",
+      "company": "Palo Alto Networks",
       "count": 9,
       "tier": 2
     },
@@ -56,27 +51,37 @@
       "tier": 5
     },
     {
+      "company": "Gusto",
+      "count": 9,
+      "tier": 6
+    },
+    {
       "company": "Fivetran",
       "count": 8,
       "tier": 5
     },
     {
-      "company": "The Trade Desk",
+      "company": "Coinbase",
       "count": 7,
+      "tier": 2
+    },
+    {
+      "company": "The Trade Desk",
+      "count": 6,
       "tier": 2
     },
     {
       "company": "Pinterest",
-      "count": 7,
+      "count": 6,
       "tier": 2
     },
     {
-      "company": "Snap",
+      "company": "Instacart",
       "count": 4,
-      "tier": 2
+      "tier": 3
     },
     {
-      "company": "Palo Alto Networks",
+      "company": "Snowflake",
       "count": 4,
       "tier": 2
     },
@@ -106,16 +111,6 @@
       "tier": 1
     },
     {
-      "company": "Instacart",
-      "count": 3,
-      "tier": 3
-    },
-    {
-      "company": "Adobe",
-      "count": 3,
-      "tier": 2
-    },
-    {
       "company": "Best Buy",
       "count": 3,
       "tier": 3
@@ -126,14 +121,9 @@
       "tier": 6
     },
     {
-      "company": "Microsoft",
-      "count": 2,
-      "tier": 1
-    },
-    {
-      "company": "Amazon",
-      "count": 2,
-      "tier": 1
+      "company": "Confluent",
+      "count": 3,
+      "tier": 5
     },
     {
       "company": "Netflix",
@@ -141,14 +131,14 @@
       "tier": 2
     },
     {
-      "company": "Airbnb",
-      "count": 2,
-      "tier": 2
-    },
-    {
       "company": "Experian",
       "count": 2,
       "tier": 3
+    },
+    {
+      "company": "Adobe",
+      "count": 2,
+      "tier": 2
     },
     {
       "company": "Cloudflare",
@@ -164,98 +154,103 @@
       "company": "Elastic",
       "count": 2,
       "tier": 5
+    },
+    {
+      "company": "Scale AI",
+      "count": 2,
+      "tier": 6
+    },
+    {
+      "company": "OneTrust",
+      "count": 2,
+      "tier": 5
     }
   ],
   "jobs_by_source": {
-    "greenhouse": 131,
-    "linkedin": 61,
+    "greenhouse": 130,
+    "linkedin": 55,
     "company-site": 1
   },
   "domain_score_distribution": {
-    "high": 123,
-    "medium": 70,
+    "high": 121,
+    "medium": 65,
     "low": 0
   },
   "jobs_by_state": {
-    "CA": 81,
-    "NY": 34,
-    "WA": 7,
+    "CA": 77,
+    "NY": 31,
+    "WA": 8,
     "NC": 1,
     "IL": 1,
     "AZ": 1,
     "MN": 2,
-    "DC": 4,
-    "CO": 4,
+    "DC": 6,
+    "TX": 3,
     "GA": 2,
     "OH": 2,
-    "MA": 2,
-    "MS": 2,
-    "TX": 1
+    "MA": 1,
+    "MS": 2
   },
   "top_cities": [
     {
       "city": "New York, NY",
-      "count": 26
+      "count": 25
     },
     {
       "city": "San Francisco, CA",
-      "count": 21
+      "count": 18
     },
     {
       "city": "Mountain View, CA",
-      "count": 13
-    },
-    {
-      "city": "San Jose, CA",
-      "count": 6
-    },
-    {
-      "city": "Costa Mesa, CA",
-      "count": 6
-    },
-    {
-      "city": "Seattle, WA",
-      "count": 5
-    },
-    {
-      "city": "Palo Alto, CA",
-      "count": 4
+      "count": 9
     },
     {
       "city": "Santa Clara, CA",
-      "count": 4
+      "count": 9
     },
     {
-      "city": "Denver, CO",
-      "count": 4
+      "city": "Costa Mesa, CA",
+      "count": 7
     },
     {
-      "city": "San Francisco Bay Area, CA",
-      "count": 4
-    },
-    {
-      "city": "New York City, NY",
-      "count": 3
-    },
-    {
-      "city": "Boston, NY",
-      "count": 3
-    },
-    {
-      "city": "Los Angeles, CA",
-      "count": 3
-    },
-    {
-      "city": "San Diego, CA",
-      "count": 3
+      "city": "Seattle, WA",
+      "count": 6
     },
     {
       "city": "Oakland, CA",
+      "count": 6
+    },
+    {
+      "city": "San Jose, CA",
+      "count": 5
+    },
+    {
+      "city": "San Diego, CA",
+      "count": 4
+    },
+    {
+      "city": "Palo Alto, CA",
+      "count": 3
+    },
+    {
+      "city": "Menlo Park, CA",
       "count": 3
     },
     {
       "city": "Bellevue, DC",
       "count": 3
+    },
+    {
+      "city": "San Francisco Bay Area, CA",
+      "count": 3
+    },
+    {
+      "city": "New York City, NY",
+      "count": 2
+    },
+    {
+      "city": "Boston, NY",
+      "count": 2
     },
     {
       "city": "Minneapolis, MN",
@@ -266,11 +261,15 @@
       "count": 2
     },
     {
-      "city": "Irvine, CA",
+      "city": "Atlanta, GA",
       "count": 2
     },
     {
-      "city": "Atlanta, GA",
+      "city": "Ashville, OH",
+      "count": 2
+    },
+    {
+      "city": "McHenry, MS",
       "count": 2
     }
   ],
@@ -282,18 +281,8 @@
       "source": "greenhouse",
       "domain_score": 100,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5071040007"
-    },
-    {
-      "company": "The Trade Desk",
-      "title": "Staff Product Manager, Pharma",
-      "location": "Los Angeles; New York; San Francisco; San Jose",
-      "source": "greenhouse",
-      "domain_score": 94,
-      "salary_range": "Not listed",
-      "date_found": "2026-06-23",
-      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5067851007"
     },
     {
       "company": "Cloudflare",
@@ -302,7 +291,7 @@
       "source": "greenhouse",
       "domain_score": 85,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8007326"
     },
     {
@@ -312,7 +301,7 @@
       "source": "greenhouse",
       "domain_score": 63,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5159651007"
     },
     {
@@ -322,7 +311,7 @@
       "source": "greenhouse",
       "domain_score": 57,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/okta/jobs/8015002"
     },
     {
@@ -332,7 +321,7 @@
       "source": "greenhouse",
       "domain_score": 51,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5147818007"
     },
     {
@@ -342,7 +331,7 @@
       "source": "greenhouse",
       "domain_score": 50,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7890195"
     },
     {
@@ -352,7 +341,7 @@
       "source": "greenhouse",
       "domain_score": 49,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/reddit/jobs/7858506"
     },
     {
@@ -362,7 +351,7 @@
       "source": "greenhouse",
       "domain_score": 47,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/mongodb/jobs/7922824"
     },
     {
@@ -372,7 +361,7 @@
       "source": "greenhouse",
       "domain_score": 44,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7718015"
     },
     {
@@ -382,7 +371,7 @@
       "source": "greenhouse",
       "domain_score": 44,
       "salary_range": "$4K-$8K",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/4833571007"
     },
     {
@@ -392,7 +381,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/datadog/jobs/7583609"
     },
     {
@@ -402,7 +391,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/mongodb/jobs/7993419"
     },
     {
@@ -412,7 +401,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/mongodb/jobs/7781724"
     },
     {
@@ -422,7 +411,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5128622007"
     },
     {
@@ -432,7 +421,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/fivetran/jobs/7644168003"
     },
     {
@@ -442,8 +431,18 @@
       "source": "greenhouse",
       "domain_score": 41,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7368194"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Senior Product Manager, Replication & Storage Engines",
+      "location": "New York City; Seattle",
+      "source": "greenhouse",
+      "domain_score": 40,
+      "salary_range": "Not listed",
+      "date_found": "2026-06-24",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/7851166"
     },
     {
       "company": "Instacart",
@@ -452,7 +451,7 @@
       "source": "greenhouse",
       "domain_score": 40,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/instacart/jobs/7904851"
     },
     {
@@ -462,7 +461,7 @@
       "source": "greenhouse",
       "domain_score": 39,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/mongodb/jobs/7974801"
     },
     {
@@ -472,7 +471,7 @@
       "source": "greenhouse",
       "domain_score": 39,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/block/jobs/5128272008"
     },
     {
@@ -482,18 +481,18 @@
       "source": "greenhouse",
       "domain_score": 39,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/okta/jobs/7747377"
     },
     {
       "company": "Databricks",
       "title": "Staff Product Manager, AI Platform",
-      "location": "Seattle, Washington",
+      "location": "San Francisco, California",
       "source": "greenhouse",
       "domain_score": 39,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
-      "url": "https://boards.greenhouse.io/databricks/jobs/8427940002"
+      "date_found": "2026-06-24",
+      "url": "https://boards.greenhouse.io/databricks/jobs/8420609002"
     },
     {
       "company": "Reddit",
@@ -502,7 +501,7 @@
       "source": "greenhouse",
       "domain_score": 39,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/reddit/jobs/7997186"
     },
     {
@@ -512,7 +511,7 @@
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/databricks/jobs/7110509002"
     },
     {
@@ -522,7 +521,7 @@
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/databricks/jobs/8394060002"
     },
     {
@@ -532,7 +531,7 @@
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/elastic/jobs/7940246"
     },
     {
@@ -542,7 +541,7 @@
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/rubrik/jobs/7891325"
     },
     {
@@ -552,7 +551,7 @@
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/gusto/jobs/7312754"
     },
     {
@@ -562,7 +561,7 @@
       "source": "greenhouse",
       "domain_score": 36,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/rubrik/jobs/7508544"
     },
     {
@@ -572,7 +571,7 @@
       "source": "greenhouse",
       "domain_score": 35,
       "salary_range": "Not listed",
-      "date_found": "2026-06-23",
+      "date_found": "2026-06-24",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7905508"
     }
   ]
