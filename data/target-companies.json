@@ -1,0 +1,168 @@
+{
+  "_note": "Seed watchlist (6b): public Greenhouse/Lever board slugs. Add rows freely; the pipeline scrapers read this.",
+  "companies": [
+    {
+      "name": "The Trade Desk",
+      "board": "greenhouse",
+      "slug": "thetradedesk"
+    },
+    {
+      "name": "LiveRamp",
+      "board": "greenhouse",
+      "slug": "liveramp"
+    },
+    {
+      "name": "Hightouch",
+      "board": "greenhouse",
+      "slug": "hightouch"
+    },
+    {
+      "name": "Amperity",
+      "board": "greenhouse",
+      "slug": "amperity"
+    },
+    {
+      "name": "mParticle",
+      "board": "greenhouse",
+      "slug": "mparticle"
+    },
+    {
+      "name": "RudderStack",
+      "board": "greenhouse",
+      "slug": "rudderstack"
+    },
+    {
+      "name": "Twilio (Segment)",
+      "board": "greenhouse",
+      "slug": "twilio"
+    },
+    {
+      "name": "Klaviyo",
+      "board": "greenhouse",
+      "slug": "klaviyo"
+    },
+    {
+      "name": "Braze",
+      "board": "greenhouse",
+      "slug": "braze"
+    },
+    {
+      "name": "Attentive",
+      "board": "greenhouse",
+      "slug": "attentive"
+    },
+    {
+      "name": "Amplitude",
+      "board": "greenhouse",
+      "slug": "amplitude"
+    },
+    {
+      "name": "Statsig",
+      "board": "greenhouse",
+      "slug": "statsig"
+    },
+    {
+      "name": "Snowflake",
+      "board": "greenhouse",
+      "slug": "snowflakecomputing"
+    },
+    {
+      "name": "Databricks",
+      "board": "greenhouse",
+      "slug": "databricks"
+    },
+    {
+      "name": "Instacart",
+      "board": "greenhouse",
+      "slug": "instacart"
+    },
+    {
+      "name": "DoorDash",
+      "board": "greenhouse",
+      "slug": "doordashusa"
+    },
+    {
+      "name": "Uber",
+      "board": "greenhouse",
+      "slug": "uber"
+    },
+    {
+      "name": "Roku",
+      "board": "greenhouse",
+      "slug": "roku"
+    },
+    {
+      "name": "Criteo",
+      "board": "greenhouse",
+      "slug": "criteo"
+    },
+    {
+      "name": "Zeta Global",
+      "board": "greenhouse",
+      "slug": "zetaglobal"
+    },
+    {
+      "name": "Epsilon",
+      "board": "greenhouse",
+      "slug": "epsilon"
+    },
+    {
+      "name": "Experian",
+      "board": "greenhouse",
+      "slug": "experian"
+    },
+    {
+      "name": "TransUnion",
+      "board": "workday",
+      "slug": "transunion"
+    },
+    {
+      "name": "Fetch",
+      "board": "greenhouse",
+      "slug": "fetchrewards"
+    },
+    {
+      "name": "Fiserv",
+      "board": "workday",
+      "slug": "fiserv"
+    },
+    {
+      "name": "Plaid",
+      "board": "lever",
+      "slug": "plaid"
+    },
+    {
+      "name": "Ramp",
+      "board": "greenhouse",
+      "slug": "ramp"
+    },
+    {
+      "name": "Rippling",
+      "board": "greenhouse",
+      "slug": "rippling"
+    },
+    {
+      "name": "Notion",
+      "board": "greenhouse",
+      "slug": "notion"
+    },
+    {
+      "name": "Figma",
+      "board": "greenhouse",
+      "slug": "figma"
+    },
+    {
+      "name": "Canva",
+      "board": "lever",
+      "slug": "canva"
+    }
+  ],
+  "wellfound_manual_watchlist": {
+    "_note": "Wellfound is login-gated; scraping violates ToS and breaks weekly. Use these pre-filtered deep links manually.",
+    "links": [
+      "https://wellfound.com/role/r/product-manager?locationSlugs=united-states&keywords=identity",
+      "https://wellfound.com/role/r/product-manager?locationSlugs=united-states&keywords=adtech",
+      "https://wellfound.com/role/r/product-manager?locationSlugs=united-states&keywords=customer%20data"
+    ]
+  }
+}
