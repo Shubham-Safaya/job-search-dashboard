@@ -561,6 +561,52 @@ async function init() {
     renderTrendChart(data.daily_trend);
     renderCityChart(data.top_cities);
     renderTable(data.top_matches);
+    renderSourceOverTime();
+    renderFunnel(data);
+}
+
+
+// v3 (6a): source attribution over time, from the history manifest
+async function renderSourceOverTime() {
+    const el = document.getElementById('sourceOverTimeChart');
+    if (!el) return;
+    let dates = [];
+    try {
+        const m = await (await fetch('data/history/index.json')).json();
+        dates = m.dates || [];
+    } catch (e) { return; }
+    if (dates.length < 1) return;
+    const snaps = [];
+    for (const d of dates.slice(-30)) {
+        try { snaps.push(await (await fetch(`data/history/${d}.json`)).json()); } catch (e) {}
+    }
+    const sources = [...new Set(snaps.flatMap(s => Object.keys(s.jobs_by_source || {})))];
+    const palette = ['#4c9aff','#57d9a3','#ffab00','#ff5630','#8777d9','#00b8d9'];
+    const datasets = sources.map((src, i) => ({
+        label: src, backgroundColor: palette[i % palette.length],
+        data: snaps.map(s => (s.jobs_by_source || {})[src] || 0),
+    }));
+    new Chart(el.getContext('2d'), {
+        type: 'bar',
+        data: { labels: snaps.map(s => s.date), datasets },
+        options: { responsive: true, maintainAspectRatio: false,
+            scales: { x: { stacked: true }, y: { stacked: true } },
+            plugins: { legend: { position: 'bottom' } } },
+    });
+}
+
+// v3 (6a): funnel by source — renders when the pipeline emits status data, else honest state
+function renderFunnel(data) {
+    const el = document.getElementById('funnelPanel');
+    if (!el) return;
+    const funnel = data.funnel_by_source || data.status_counts;
+    if (!funnel) {
+        el.innerHTML = '<p style="color:#8899b0">Status funnel (new → applied → screen → interview → offer) activates once the pipeline emits per-posting <code>status</code> — the 6a data-model step tracked for the private repo. Source and volume history above are live now.</p>';
+        return;
+    }
+    const rows = Object.entries(funnel).map(([k, v]) =>
+        `<tr><td>${k}</td><td>${typeof v === 'object' ? JSON.stringify(v) : v}</td></tr>`).join('');
+    el.innerHTML = `<table style="width:100%"><tr><th>Source / stage</th><th>Count</th></tr>${rows}</table>`;
 }
 
 document.addEventListener('DOMContentLoaded', init);

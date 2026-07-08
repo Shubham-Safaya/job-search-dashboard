@@ -1,0 +1,22 @@
+name: Daily history snapshot
+# 6a: makes source attribution + trends permanent. The private pipeline pushes
+# dashboard_data.json; this archives a dated copy so "where were the old jobs
+# found" is answerable forever — purely from the public repo.
+on:
+  schedule:
+    - cron: "30 9 * * *"   # after the 09:00 pipeline push
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/snapshot.py
+      - run: |
+          git config user.name "snapshot-bot"
+          git config user.email "actions@github.com"
+          git add data/history/
+          git diff --cached --quiet || git commit -m "data: history snapshot $(date -u +%F) [skip ci]"
+          git push
