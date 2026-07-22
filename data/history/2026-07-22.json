@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-22",
+  "total_jobs_today": 106,
+  "jobs_by_source": {
+    "greenhouse": 96,
+    "linkedin": 10
+  },
+  "unique_companies": 30,
+  "avg_domain_score": 32.5,
+  "funnel_by_source": null,
+  "status_counts": null
+}
