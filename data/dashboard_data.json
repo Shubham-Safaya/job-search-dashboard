@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-07T01:32:52.081994Z",
+  "last_updated": "2026-08-07T21:35:06.748724Z",
   "days_active": 1,
   "summary": {
-    "total_jobs_today": 106,
+    "total_jobs_today": 113,
     "total_applications": 1,
-    "unique_companies": 30,
-    "avg_domain_score": 31.7,
-    "remote_jobs": 8
+    "unique_companies": 32,
+    "avg_domain_score": 31.9,
+    "remote_jobs": 10
   },
   "daily_trend": [
     {
       "date": "2026-08-07",
-      "jobs_found": 106
+      "jobs_found": 113
     }
   ],
   "jobs_by_company": [
     {
       "company": "Databricks",
-      "count": 14,
+      "count": 15,
       "tier": 5
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "company": "Pinterest",
-      "count": 7,
+      "count": 8,
       "tier": 2
     },
     {
@@ -56,6 +56,16 @@
       "tier": 6
     },
     {
+      "company": "Twilio",
+      "count": 5,
+      "tier": 5
+    },
+    {
+      "company": "Segment",
+      "count": 5,
+      "tier": 5
+    },
+    {
       "company": "The Trade Desk",
       "count": 4,
       "tier": 2
@@ -76,16 +86,6 @@
       "tier": 5
     },
     {
-      "company": "Twilio",
-      "count": 4,
-      "tier": 5
-    },
-    {
-      "company": "Segment",
-      "count": 4,
-      "tier": 5
-    },
-    {
       "company": "Cloudflare",
       "count": 3,
       "tier": 5
@@ -101,6 +101,11 @@
       "tier": 2
     },
     {
+      "company": "Airbnb",
+      "count": 2,
+      "tier": 2
+    },
+    {
       "company": "Rubrik",
       "count": 2,
       "tier": 5
@@ -109,6 +114,11 @@
       "company": "Amazon",
       "count": 1,
       "tier": 1
+    },
+    {
+      "company": "Experian",
+      "count": 1,
+      "tier": 3
     },
     {
       "company": "CrowdStrike",
@@ -154,48 +164,35 @@
       "company": "HubSpot",
       "count": 1,
       "tier": 5
-    },
-    {
-      "company": "Confluent",
-      "count": 1,
-      "tier": 5
-    },
-    {
-      "company": "Discord",
-      "count": 1,
-      "tier": 6
     }
   ],
   "jobs_by_source": {
-    "greenhouse": 96,
-    "linkedin": 10
+    "greenhouse": 101,
+    "linkedin": 12
   },
   "domain_score_distribution": {
-    "high": 96,
-    "medium": 10,
+    "high": 102,
+    "medium": 11,
     "low": 0
   },
   "jobs_by_state": {
-    "CA": 38,
-    "WA": 6,
+    "CA": 42,
+    "WA": 3,
     "NY": 16,
     "NC": 1,
     "VA": 1,
     "MD": 1,
-    "DC": 5
+    "DC": 5,
+    "CO": 1
   },
   "top_cities": [
     {
       "city": "San Francisco, CA",
-      "count": 18
+      "count": 22
     },
     {
       "city": "New York, NY",
       "count": 11
-    },
-    {
-      "city": "Seattle, WA",
-      "count": 5
     },
     {
       "city": "Costa Mesa, CA",
@@ -206,7 +203,7 @@
       "count": 3
     },
     {
-      "city": "Oakland, CA",
+      "city": "Mountain View, CA",
       "count": 3
     },
     {
@@ -214,11 +211,15 @@
       "count": 3
     },
     {
+      "city": "Seattle, WA",
+      "count": 2
+    },
+    {
       "city": "Palo Alto, CA",
       "count": 2
     },
     {
-      "city": "Mountain View, CA",
+      "city": "Oakland, CA",
       "count": 2
     },
     {
@@ -379,6 +380,16 @@
     },
     {
       "company": "MongoDB",
+      "title": "Senior Staff Product Manager, Query",
+      "location": "United States",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-08-07",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/7993419"
+    },
+    {
+      "company": "MongoDB",
       "title": "Staff Product Manager - Internal AI",
       "location": "Palo Alto",
       "source": "greenhouse",
@@ -418,6 +429,16 @@
       "url": "https://boards.greenhouse.io/coinbase/jobs/8008033"
     },
     {
+      "company": "Experian",
+      "title": "Senior Product Manager, AdTech Identity Graph - Remote",
+      "location": "United States",
+      "source": "linkedin",
+      "domain_score": 40,
+      "salary_range": "Not listed",
+      "date_found": "2026-08-07",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-adtech-identity-graph-remote-at-experian-4450777184"
+    },
+    {
       "company": "Databricks",
       "title": "Staff Product Manager, AI Platform",
       "location": "Seattle, Washington",
@@ -449,13 +470,23 @@
     },
     {
       "company": "Databricks",
-      "title": "Staff Product Manager, Security",
-      "location": "Seattle, Washington",
+      "title": "Staff Product Manager, SAP",
+      "location": "Mountain View, California; San Francisco, California",
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
       "date_found": "2026-08-07",
-      "url": "https://boards.greenhouse.io/databricks/jobs/7110509002"
+      "url": "https://boards.greenhouse.io/databricks/jobs/8679974002"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Manager, Security",
+      "location": "San Francisco, California",
+      "source": "greenhouse",
+      "domain_score": 37,
+      "salary_range": "Not listed",
+      "date_found": "2026-08-07",
+      "url": "https://boards.greenhouse.io/databricks/jobs/7110499002"
     },
     {
       "company": "Databricks",
@@ -470,12 +501,12 @@
     {
       "company": "Elastic",
       "title": "Principal Product Manager Agents and Context - Elasticsearch",
-      "location": "Canada",
+      "location": "United States",
       "source": "greenhouse",
       "domain_score": 37,
       "salary_range": "Not listed",
       "date_found": "2026-08-07",
-      "url": "https://boards.greenhouse.io/elastic/jobs/8070011"
+      "url": "https://boards.greenhouse.io/elastic/jobs/7602101"
     },
     {
       "company": "Rubrik",
@@ -536,36 +567,6 @@
       "salary_range": "Not listed",
       "date_found": "2026-08-07",
       "url": "https://boards.greenhouse.io/okta/jobs/8022961"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Product Manager, Model Lifecycle & Management",
-      "location": "San Francisco, CA, US; Remote, US",
-      "source": "greenhouse",
-      "domain_score": 35,
-      "salary_range": "Not listed",
-      "date_found": "2026-08-07",
-      "url": "https://boards.greenhouse.io/pinterest/jobs/7905508"
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Product Manager - Fleet and Lifecycle Management",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "source": "greenhouse",
-      "domain_score": 35,
-      "salary_range": "Not listed",
-      "date_found": "2026-08-07",
-      "url": "https://boards.greenhouse.io/datadog/jobs/8077142"
-    },
-    {
-      "company": "Datadog",
-      "title": "Senior Product Manager \u2013 Observability Data Platform",
-      "location": "New York, New York, USA",
-      "source": "greenhouse",
-      "domain_score": 35,
-      "salary_range": "Not listed",
-      "date_found": "2026-08-07",
-      "url": "https://boards.greenhouse.io/datadog/jobs/8065192"
     }
   ]
 }
