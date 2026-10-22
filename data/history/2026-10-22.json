@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-22",
+  "total_jobs_today": 183,
+  "jobs_by_source": {
+    "greenhouse": 168,
+    "linkedin": 14,
+    "lever": 1
+  },
+  "unique_companies": 45,
+  "avg_domain_score": 32.8,
+  "funnel_by_source": null,
+  "status_counts": null
+}
