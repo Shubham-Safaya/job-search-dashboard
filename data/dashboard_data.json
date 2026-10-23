@@ -1,15 +1,37 @@
 {
-  "last_updated": "2026-10-22T00:03:04.621913Z",
+  "last_updated": "2026-10-23T00:16:44.310471Z",
   "applications_today": [
     {
       "company": "Roku",
       "title": "Senior Product Manager, Advertising \u2013 Exchange Optimization",
-      "url": "https://boards.greenhouse.io/roku/jobs/8146077",
+      "url": "https://boards.greenhouse.io/roku/jobs/8145007",
       "status": "manual_required",
-      "note": "Needs your answer: The Mutual Arbitration Agreement (\"Arbitration Agreement\") is legally binding on you and the company and waives your right to bring covered ",
+      "note": "Required questions left: Country* | Location (City)* | How did you hear about us?* | Are you authorized to lawfully work for Roku in the country to which you are applying? * | The Mutual Arbitration Agreement (\"Arbitration Agreement\") is legally binding on you and the company and waives your rig",
       "questions_needed": [
-        "The Mutual Arbitration Agreement (\"Arbitration Agreement\") is legally binding on you and the company and waives your right to bring covered "
+        "Country*",
+        "Location (City)*",
+        "How did you hear about us?*",
+        "Are you authorized to lawfully work for Roku in the country to which you are applying? *",
+        "The Mutual Arbitration Agreement (\"Arbitration Agreement\") is legally binding on you and the company and waives your rig"
       ]
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Product Manager, Measurement Partner Optimization",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/8239954",
+      "status": "manual_required",
+      "note": "Needs your answer: What U.S State do you currently reside in?",
+      "questions_needed": [
+        "What U.S State do you currently reside in?"
+      ]
+    },
+    {
+      "company": "MongoDB",
+      "title": "Staff Product Manager, AI Builder Experience",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/8129885",
+      "status": "captcha",
+      "note": "CAPTCHA detected",
+      "questions_needed": []
     },
     {
       "company": "The Trade Desk",
@@ -22,13 +44,6 @@
   ],
   "queue_skips": [
     {
-      "company": "Roku",
-      "title": "Senior Product Manager \u2013 Data Collaboration & Measurement",
-      "url": "https://boards.greenhouse.io/roku/jobs/7871135",
-      "score": 94,
-      "reason": "already Manual Required"
-    },
-    {
       "company": "iSpot.tv",
       "title": "Sr. Product Manager ",
       "url": "https://boards.greenhouse.io/ispottv/jobs/4727645005",
@@ -37,10 +52,17 @@
     },
     {
       "company": "Roku",
-      "title": "Senior Product Manager, Advertising \u2013 Supply Integrations",
-      "url": "https://boards.greenhouse.io/roku/jobs/8311265",
+      "title": "\tSenior Product Manager, Advertising \u2013 Supply Integrations",
+      "url": "https://boards.greenhouse.io/roku/jobs/7871151",
       "score": 75,
-      "reason": "one role per company per day"
+      "reason": "already Manual Required"
+    },
+    {
+      "company": "Roku",
+      "title": "Senior Product Manager, Advertising \u2013 Supply Integrations",
+      "url": "https://boards.greenhouse.io/roku/jobs/7871135",
+      "score": 75,
+      "reason": "already Manual Required"
     },
     {
       "company": "The Trade Desk",
@@ -48,13 +70,6 @@
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253805007",
       "score": 74,
       "reason": "already CAPTCHA \u2014 Manual"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Product Manager, Measurement Partner Optimization",
-      "url": "https://boards.greenhouse.io/pinterest/jobs/8239954",
-      "score": 71,
-      "reason": "already Auto-Applied"
     },
     {
       "company": "The Trade Desk",
@@ -68,7 +83,7 @@
       "title": "Staff Product Manager, Programmatic Ads",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7959458",
       "score": 62,
-      "reason": "already Auto-Applied"
+      "reason": "one role per company per day"
     },
     {
       "company": "Pinterest",
@@ -82,12 +97,12 @@
       "title": "Staff Product Manager, Ads Measurement",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8109770",
       "score": 61,
-      "reason": "already 22 applications at company"
+      "reason": "one role per company per day"
     },
     {
       "company": "Instacart",
       "title": "Senior Product Manager, Advertiser Experience",
-      "url": "https://boards.greenhouse.io/instacart/jobs/8120471",
+      "url": "https://boards.greenhouse.io/instacart/jobs/8120469",
       "score": 73,
       "reason": "already Manual Required"
     },
@@ -96,14 +111,14 @@
       "title": "Sr. Product Manager, Data and Signals Intelligence",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8238389",
       "score": 56,
-      "reason": "already Auto-Applied"
+      "reason": "one role per company per day"
     },
     {
       "company": "Pinterest",
       "title": "Staff Product Manager, Retail Media & Audiences",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8209814",
       "score": 56,
-      "reason": "already Auto-Applied"
+      "reason": "one role per company per day"
     },
     {
       "company": "The Trade Desk",
@@ -142,17 +157,17 @@
     },
     {
       "company": "MongoDB",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "url": "https://boards.greenhouse.io/mongodb/jobs/8129885",
-      "score": 43,
-      "reason": "already Auto-Applied"
+      "title": "Senior Staff Product Manager, Query",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/7993419",
+      "score": 42,
+      "reason": "level excluded"
     },
     {
       "company": "MongoDB",
       "title": "Staff Product Manager - Internal AI",
       "url": "https://boards.greenhouse.io/mongodb/jobs/7781724",
       "score": 42,
-      "reason": "already 8 applications at company"
+      "reason": "one role per company per day"
     },
     {
       "company": "Pinterest",
@@ -166,21 +181,35 @@
       "title": "Staff Product Manager, Ads Quality Ranking",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7985302",
       "score": 41,
-      "reason": "already Auto-Applied"
+      "reason": "one role per company per day"
     },
     {
       "company": "MongoDB",
       "title": "Staff Product Manager, Atlas Infinite",
       "url": "https://boards.greenhouse.io/mongodb/jobs/8274029",
       "score": 41,
-      "reason": "already 8 applications at company"
+      "reason": "one role per company per day"
     },
     {
       "company": "Instacart",
       "title": "Senior Product Manager, Catalog",
-      "url": "https://boards.greenhouse.io/instacart/jobs/8143270",
+      "url": "https://boards.greenhouse.io/instacart/jobs/8143272",
       "score": 55,
       "reason": "already Manual Required"
+    },
+    {
+      "company": "Adobe",
+      "title": "Pro Design Principal Product Manager, Growth",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Pro-Design-Principal-Product-Manager--Growth_R171088",
+      "score": 42,
+      "reason": "site workday not supported"
+    },
+    {
+      "company": "Adobe",
+      "title": "Senior Product Manager, Privacy Engineering",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Manager--Privacy-Engineering_R171542",
+      "score": 40,
+      "reason": "site workday not supported"
     },
     {
       "company": "Instacart",
@@ -188,27 +217,20 @@
       "url": "https://boards.greenhouse.io/instacart/jobs/8281405",
       "score": 40,
       "reason": "already Manual Required"
-    },
-    {
-      "company": "Braze",
-      "title": "Lead Product Manager, Banners & Content Cards",
-      "url": "https://boards.greenhouse.io/braze/jobs/8209242",
-      "score": 50,
-      "reason": "already CAPTCHA \u2014 Manual"
     }
   ],
   "days_active": 1,
   "summary": {
-    "total_jobs_today": 183,
+    "total_jobs_today": 204,
     "total_applications": 0,
-    "unique_companies": 45,
-    "avg_domain_score": 32.8,
+    "unique_companies": 46,
+    "avg_domain_score": 32.1,
     "remote_jobs": 13
   },
   "daily_trend": [
     {
-      "date": "2026-10-22",
-      "jobs_found": 183
+      "date": "2026-10-23",
+      "jobs_found": 204
     }
   ],
   "jobs_by_company": [
@@ -238,6 +260,16 @@
       "tier": 2
     },
     {
+      "company": "Adobe",
+      "count": 9,
+      "tier": 2
+    },
+    {
+      "company": "Snowflake",
+      "count": 8,
+      "tier": 2
+    },
+    {
       "company": "Cloudflare",
       "count": 8,
       "tier": 5
@@ -253,14 +285,14 @@
       "tier": 6
     },
     {
-      "company": "GitLab",
-      "count": 7,
-      "tier": 6
-    },
-    {
       "company": "Elastic",
       "count": 7,
       "tier": 5
+    },
+    {
+      "company": "GitLab",
+      "count": 6,
+      "tier": 6
     },
     {
       "company": "Duolingo",
@@ -286,6 +318,11 @@
       "company": "Lyft",
       "count": 5,
       "tier": 2
+    },
+    {
+      "company": "Nvidia",
+      "count": 5,
+      "tier": 1
     },
     {
       "company": "Anduril",
@@ -343,44 +380,32 @@
       "tier": 1
     },
     {
-      "company": "PayPal",
+      "company": "CrowdStrike",
       "count": 2,
       "tier": 2
-    },
-    {
-      "company": "Scale AI",
-      "count": 2,
-      "tier": 6
-    },
-    {
-      "company": "Rubrik",
-      "count": 2,
-      "tier": 5
-    },
-    {
-      "company": "iSpot.tv",
-      "count": 1,
-      "tier": 3
     }
   ],
   "jobs_by_source": {
-    "greenhouse": 168,
-    "linkedin": 14,
+    "greenhouse": 167,
+    "linkedin": 12,
+    "workday": 16,
+    "ashby": 8,
     "lever": 1
   },
   "domain_score_distribution": {
-    "high": 160,
-    "medium": 23,
+    "high": 177,
+    "medium": 27,
     "low": 0
   },
   "jobs_by_state": {
-    "CA": 55,
+    "NY": 28,
     "MA": 1,
-    "NY": 26,
-    "WA": 5,
+    "CA": 62,
+    "WA": 9,
     "DC": 8,
     "IL": 1,
     "WI": 1,
+    "TX": 1,
     "CO": 1,
     "GA": 1,
     "PA": 4,
@@ -389,16 +414,12 @@
   },
   "top_cities": [
     {
-      "city": "San Francisco, CA",
-      "count": 20
-    },
-    {
       "city": "New York, NY",
-      "count": 16
+      "count": 18
     },
     {
-      "city": "Remote",
-      "count": 8
+      "city": "San Francisco, CA",
+      "count": 14
     },
     {
       "city": "Palo Alto, CA",
@@ -409,16 +430,28 @@
       "count": 8
     },
     {
+      "city": "Remote",
+      "count": 7
+    },
+    {
+      "city": "Seattle, WA",
+      "count": 6
+    },
+    {
       "city": "San Jose, CA",
+      "count": 5
+    },
+    {
+      "city": "US-CA-Menlo Park (Remote), CA",
+      "count": 5
+    },
+    {
+      "city": "San Jose; San Francisco, CA",
       "count": 5
     },
     {
       "city": "Denver, CA",
       "count": 5
-    },
-    {
-      "city": "Seattle, WA",
-      "count": 4
     },
     {
       "city": "New York, PA",
@@ -457,15 +490,7 @@
       "count": 1
     },
     {
-      "city": "Boston, NY",
-      "count": 1
-    },
-    {
-      "city": "Austin; New York City; Palo Alto; Seattle, CA",
-      "count": 1
-    },
-    {
-      "city": "Menlo Park, DC",
+      "city": "US-CA-Menlo Park, CA",
       "count": 1
     }
   ],
@@ -477,28 +502,28 @@
       "source": "greenhouse",
       "domain_score": 97,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/ispottv/jobs/4727645005"
     },
     {
       "company": "Roku",
-      "title": "Senior Product Manager \u2013 Data Collaboration & Measurement",
-      "location": "San Jose, California",
+      "title": "Senior Product Manager, Advertising \u2013 Exchange Optimization",
+      "location": "New York, New York",
       "source": "greenhouse",
-      "domain_score": 94,
+      "domain_score": 82,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/roku/jobs/7871135"
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/roku/jobs/8145007"
     },
     {
       "company": "Roku",
-      "title": "Senior Product Manager, Advertising \u2013 Exchange Optimization",
+      "title": "\tSenior Product Manager, Advertising \u2013 Supply Integrations",
       "location": "Boston, Massachusetts",
       "source": "greenhouse",
-      "domain_score": 92,
+      "domain_score": 75,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/roku/jobs/8146077"
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/roku/jobs/7871151"
     },
     {
       "company": "Roku",
@@ -507,8 +532,8 @@
       "source": "greenhouse",
       "domain_score": 75,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/roku/jobs/8311265"
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/roku/jobs/7871135"
     },
     {
       "company": "The Trade Desk",
@@ -517,18 +542,18 @@
       "source": "greenhouse",
       "domain_score": 74,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253805007"
     },
     {
       "company": "Instacart",
       "title": "Senior Product Manager, Advertiser Experience",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "location": "United States - Remote",
       "source": "greenhouse",
       "domain_score": 73,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/instacart/jobs/8120471"
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/instacart/jobs/8120469"
     },
     {
       "company": "Pinterest",
@@ -537,7 +562,7 @@
       "source": "greenhouse",
       "domain_score": 71,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8239954"
     },
     {
@@ -547,7 +572,7 @@
       "source": "greenhouse",
       "domain_score": 69,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253179007"
     },
     {
@@ -557,7 +582,7 @@
       "source": "greenhouse",
       "domain_score": 62,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/7959458"
     },
     {
@@ -567,7 +592,7 @@
       "source": "greenhouse",
       "domain_score": 61,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8234540"
     },
     {
@@ -577,7 +602,7 @@
       "source": "greenhouse",
       "domain_score": 61,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8109770"
     },
     {
@@ -587,7 +612,7 @@
       "source": "greenhouse",
       "domain_score": 56,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8238389"
     },
     {
@@ -597,18 +622,18 @@
       "source": "greenhouse",
       "domain_score": 56,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8209814"
     },
     {
       "company": "Instacart",
       "title": "Senior Product Manager, Catalog",
-      "location": "United States - Remote",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
       "source": "greenhouse",
       "domain_score": 55,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/instacart/jobs/8143270"
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/instacart/jobs/8143272"
     },
     {
       "company": "The Trade Desk",
@@ -617,7 +642,7 @@
       "source": "greenhouse",
       "domain_score": 54,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5261790007"
     },
     {
@@ -627,7 +652,7 @@
       "source": "greenhouse",
       "domain_score": 52,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/lyft/jobs/8594167002"
     },
     {
@@ -637,18 +662,18 @@
       "source": "greenhouse",
       "domain_score": 51,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5147818007"
     },
     {
       "company": "Braze",
       "title": "Lead Product Manager, Banners & Content Cards",
-      "location": "San Francisco",
+      "location": "Austin",
       "source": "greenhouse",
       "domain_score": 50,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/braze/jobs/8209242"
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/braze/jobs/8209238"
     },
     {
       "company": "Datadog",
@@ -657,7 +682,7 @@
       "source": "greenhouse",
       "domain_score": 47,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/datadog/jobs/8174592"
     },
     {
@@ -667,18 +692,8 @@
       "source": "greenhouse",
       "domain_score": 46,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-23",
       "url": "https://boards.greenhouse.io/reddit/jobs/8120503"
-    },
-    {
-      "company": "GitLab",
-      "title": "Principal Product Manager, Orbit",
-      "location": "Remote, Canada; Remote, United States",
-      "source": "greenhouse",
-      "domain_score": 46,
-      "salary_range": "Not listed",
-      "date_found": "2026-10-22",
-      "url": "https://boards.greenhouse.io/gitlab/jobs/8871798002"
     },
     {
       "company": "Cloudflare",
@@ -687,7 +702,7 @@
       "source": "greenhouse",
       "domain_score": 45,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8200670"
     },
     {
@@ -697,7 +712,7 @@
       "source": "greenhouse",
       "domain_score": 44,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8145923"
     },
     {
@@ -707,8 +722,18 @@
       "source": "greenhouse",
       "domain_score": 43,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/mongodb/jobs/8129885"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Senior Staff Product Manager, Query",
+      "location": "United States",
+      "source": "greenhouse",
+      "domain_score": 42,
+      "salary_range": "Not listed",
+      "date_found": "2026-10-22",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/7993419"
     },
     {
       "company": "MongoDB",
@@ -717,7 +742,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/mongodb/jobs/7781724"
     },
     {
@@ -727,8 +752,18 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-22",
       "url": "https://boards.greenhouse.io/thetradedesk/jobs/5128622007"
+    },
+    {
+      "company": "Adobe",
+      "title": "Pro Design Principal Product Manager, Growth",
+      "location": "San Jose",
+      "source": "workday",
+      "domain_score": 42,
+      "salary_range": "$148K-$282K",
+      "date_found": "2026-10-22",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Pro-Design-Principal-Product-Manager--Growth_R171088"
     },
     {
       "company": "OneTrust",
@@ -737,7 +772,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-23",
       "url": "https://boards.greenhouse.io/onetrust/jobs/8207523"
     },
     {
@@ -747,7 +782,7 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-23",
       "url": "https://boards.greenhouse.io/fivetran/jobs/7975436003"
     },
     {
@@ -757,18 +792,8 @@
       "source": "greenhouse",
       "domain_score": 42,
       "salary_range": "Not listed",
-      "date_found": "2026-10-21",
+      "date_found": "2026-10-23",
       "url": "https://boards.greenhouse.io/fivetran/jobs/7787885003"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Staff Product Manager, Ads Quality Ranking",
-      "location": "Palo Alto, CA, US; Seattle, WA, US",
-      "source": "greenhouse",
-      "domain_score": 41,
-      "salary_range": "Not listed",
-      "date_found": "2026-10-21",
-      "url": "https://boards.greenhouse.io/pinterest/jobs/7986197"
     }
   ]
 }
