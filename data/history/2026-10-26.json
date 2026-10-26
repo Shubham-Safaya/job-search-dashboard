@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-26",
+  "total_jobs_today": 202,
+  "jobs_by_source": {
+    "greenhouse": 169,
+    "linkedin": 9,
+    "workday": 16,
+    "ashby": 8
+  },
+  "unique_companies": 43,
+  "avg_domain_score": 32.1,
+  "funnel_by_source": null,
+  "status_counts": null
+}
