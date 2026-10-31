@@ -1,30 +1,28 @@
 {
-  "last_updated": "2026-10-30T00:43:18.662987Z",
+  "last_updated": "2026-10-31T00:30:51.326414Z",
   "applications_today": [
     {
       "company": "Roku",
       "title": "Senior Product Manager, Advertising \u2013 Exchange Optimization",
-      "url": "https://boards.greenhouse.io/roku/jobs/8145007",
-      "status": "manual_required",
-      "note": "Required questions left: First Name*",
-      "questions_needed": [
-        "First Name*"
-      ]
+      "url": "https://boards.greenhouse.io/roku/jobs/8146077",
+      "status": "security_code",
+      "note": "Form filled; Greenhouse emailed a security code that must be entered to submit",
+      "questions_needed": []
     },
     {
       "company": "The Trade Desk",
-      "title": "Staff Product Manager, Audience Products",
-      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253805007",
-      "status": "failed",
-      "note": "Form validation error detected; unfilled required: Security code",
+      "title": "Staff Product Manager, Data Flows and Governance ",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253179007",
+      "status": "security_code",
+      "note": "Form filled; Greenhouse emailed a security code that must be entered to submit",
       "questions_needed": []
     },
     {
       "company": "Pinterest",
-      "title": "Staff Product Manager, Measurement Partner Optimization",
-      "url": "https://boards.greenhouse.io/pinterest/jobs/8239954",
-      "status": "failed",
-      "note": "Form validation error detected; unfilled required: Security code",
+      "title": "Staff Product Manager, Programmatic Ads",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7959458",
+      "status": "security_code",
+      "note": "Form filled; Greenhouse emailed a security code that must be entered to submit",
       "questions_needed": []
     },
     {
@@ -38,30 +36,30 @@
       ]
     },
     {
-      "company": "Lyft",
-      "title": "Staff Product Manager I, Ad Serving",
-      "url": "https://boards.greenhouse.io/lyft/jobs/8594167002",
+      "company": "Datadog",
+      "title": "Staff Product Manager, Metering and Attribution",
+      "url": "https://boards.greenhouse.io/datadog/jobs/8337954",
       "status": "manual_required",
-      "note": "Needs your answer: May we contact your current employer? | Can you perform these essential functions of the job with reasonable accommodation? | Zip / postal code | I certify that the facts set forth in this Application for Employment are true and complete to the best of my knowledge. I understand t",
+      "note": "Needs your answer: I certify that the information provided in this application is true and correct to the best of my knowledge. I understand that any false sta | I understand my application will be processed in accordance with Datadog\u2019s Candidate Privacy Policy. | Are you legally authorised to work ",
       "questions_needed": [
-        "May we contact your current employer?",
-        "Can you perform these essential functions of the job with reasonable accommodation?",
-        "Zip / postal code",
-        "I certify that the facts set forth in this Application for Employment are true and complete to the best of my knowledge. I understand that i"
+        "I certify that the information provided in this application is true and correct to the best of my knowledge. I understand that any false sta",
+        "I understand my application will be processed in accordance with Datadog\u2019s Candidate Privacy Policy.",
+        "Are you legally authorised to work full-time in the country where this job is based?",
+        "In what cities are you available to work?"
       ]
     },
     {
       "company": "MongoDB",
-      "title": "Staff Product Manager, AI Builder Experience",
-      "url": "https://boards.greenhouse.io/mongodb/jobs/8129885",
-      "status": "failed",
-      "note": "Form validation error detected; unfilled required: Security code",
+      "title": "Staff Product Manager - Internal AI",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/7781724",
+      "status": "security_code",
+      "note": "Form filled; Greenhouse emailed a security code that must be entered to submit",
       "questions_needed": []
     },
     {
       "company": "Braze",
       "title": "Lead Product Manager, Banners & Content Cards",
-      "url": "https://boards.greenhouse.io/braze/jobs/8209240",
+      "url": "https://boards.greenhouse.io/braze/jobs/8209242",
       "status": "manual_required",
       "note": "Needs your answer: Select \u2018Yes\u2019 to join Braze\u2019s Talent Community and receive newsletters to help you stay up to date on career-related news, events and opportu",
       "questions_needed": [
@@ -112,25 +110,25 @@
       "reason": "already Manual Required"
     },
     {
+      "company": "The Trade Desk",
+      "title": "Staff Product Manager, Audience Products",
+      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253805007",
+      "score": 74,
+      "reason": "already Failed \u2014 Manual"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Product Manager, Measurement Partner Optimization",
+      "url": "https://boards.greenhouse.io/pinterest/jobs/8239954",
+      "score": 71,
+      "reason": "already Failed \u2014 Manual"
+    },
+    {
       "company": "Pinterest",
       "title": "Staff Product Manager, Privacy-Centric Measurement",
       "url": "https://boards.greenhouse.io/pinterest/jobs/8234538",
       "score": 74,
       "reason": "pay tops out below $170,000"
-    },
-    {
-      "company": "The Trade Desk",
-      "title": "Staff Product Manager, Data Flows and Governance ",
-      "url": "https://boards.greenhouse.io/thetradedesk/jobs/5253179007",
-      "score": 69,
-      "reason": "one role per company per day"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Product Manager, Programmatic Ads",
-      "url": "https://boards.greenhouse.io/pinterest/jobs/7959458",
-      "score": 62,
-      "reason": "one role per company per day"
     },
     {
       "company": "Pinterest",
@@ -156,7 +154,7 @@
     {
       "company": "Roku",
       "title": "Senior Product Manager, Brand Outcomes, Video and Native Advertising",
-      "url": "https://boards.greenhouse.io/roku/jobs/8328674",
+      "url": "https://boards.greenhouse.io/roku/jobs/8329310",
       "score": 59,
       "reason": "one role per company per day"
     },
@@ -197,10 +195,10 @@
     },
     {
       "company": "MongoDB",
-      "title": "Staff Product Manager - Internal AI",
-      "url": "https://boards.greenhouse.io/mongodb/jobs/7781724",
-      "score": 42,
-      "reason": "one role per company per day"
+      "title": "Staff Product Manager, AI Builder Experience",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/8129885",
+      "score": 43,
+      "reason": "already Failed \u2014 Manual"
     },
     {
       "company": "Pinterest",
@@ -217,11 +215,11 @@
       "reason": "one role per company per day"
     },
     {
-      "company": "Instacart",
-      "title": "Senior Product Manager, Catalog",
-      "url": "https://boards.greenhouse.io/instacart/jobs/8143270",
-      "score": 55,
-      "reason": "already Manual Required"
+      "company": "MongoDB",
+      "title": "Staff Product Manager, Atlas Infinite",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/8274029",
+      "score": 41,
+      "reason": "one role per company per day"
     },
     {
       "company": "Adobe",
@@ -278,7 +276,7 @@
     "https://boards.greenhouse.io/thetradedesk/jobs/5253179007": "open",
     "https://boards.greenhouse.io/thetradedesk/jobs/5261790007": "open",
     "https://boards.greenhouse.io/instacart/jobs/8281405": "open",
-    "https://boards.greenhouse.io/lyft/jobs/8594167002": "open",
+    "https://boards.greenhouse.io/lyft/jobs/8594167002": "closed",
     "https://boards.greenhouse.io/asana/jobs/8044815": "open",
     "https://boards.greenhouse.io/gitlab/jobs/8871820002": "open",
     "https://boards.greenhouse.io/mongodb/jobs/8129885": "open",
@@ -288,16 +286,16 @@
   },
   "days_active": 1,
   "summary": {
-    "total_jobs_today": 192,
+    "total_jobs_today": 189,
     "total_applications": 0,
     "unique_companies": 45,
-    "avg_domain_score": 32.9,
+    "avg_domain_score": 32.8,
     "remote_jobs": 13
   },
   "daily_trend": [
     {
-      "date": "2026-10-30",
-      "jobs_found": 192
+      "date": "2026-10-31",
+      "jobs_found": 189
     }
   ],
   "jobs_by_company": [
@@ -337,7 +335,7 @@
       "tier": 5
     },
     {
-      "company": "Lyft",
+      "company": "Datadog",
       "count": 7,
       "tier": 2
     },
@@ -352,12 +350,12 @@
       "tier": 6
     },
     {
-      "company": "Datadog",
+      "company": "MongoDB",
       "count": 6,
       "tier": 2
     },
     {
-      "company": "MongoDB",
+      "company": "Lyft",
       "count": 6,
       "tier": 2
     },
@@ -392,24 +390,14 @@
       "tier": 6
     },
     {
+      "company": "Okta",
+      "count": 5,
+      "tier": 5
+    },
+    {
       "company": "The Trade Desk",
       "count": 4,
       "tier": 2
-    },
-    {
-      "company": "Instacart",
-      "count": 4,
-      "tier": 3
-    },
-    {
-      "company": "Nvidia",
-      "count": 4,
-      "tier": 1
-    },
-    {
-      "company": "Fivetran",
-      "count": 4,
-      "tier": 5
     },
     {
       "company": "Twilio",
@@ -422,14 +410,19 @@
       "tier": 5
     },
     {
-      "company": "Okta",
-      "count": 4,
-      "tier": 5
+      "company": "Instacart",
+      "count": 3,
+      "tier": 3
     },
     {
       "company": "Asana",
       "count": 3,
       "tier": 6
+    },
+    {
+      "company": "Fivetran",
+      "count": 3,
+      "tier": 5
     },
     {
       "company": "Samsara",
@@ -440,6 +433,11 @@
       "company": "Rubrik",
       "count": 3,
       "tier": 5
+    },
+    {
+      "company": "Amazon",
+      "count": 2,
+      "tier": 1
     },
     {
       "company": "Snap",
@@ -453,27 +451,27 @@
     }
   ],
   "jobs_by_source": {
-    "greenhouse": 160,
-    "linkedin": 11,
-    "workday": 14,
-    "ashby": 7
+    "greenhouse": 159,
+    "linkedin": 12,
+    "ashby": 7,
+    "workday": 11
   },
   "domain_score_distribution": {
-    "high": 169,
-    "medium": 23,
+    "high": 167,
+    "medium": 22,
     "low": 0
   },
   "jobs_by_state": {
-    "NY": 29,
-    "MA": 1,
+    "MA": 3,
     "CA": 66,
-    "WA": 5,
+    "NY": 25,
+    "WA": 9,
     "DC": 7,
-    "IL": 2,
-    "CO": 2,
+    "IL": 1,
     "GA": 1,
     "TX": 1,
     "PA": 4,
+    "CO": 1,
     "VA": 1,
     "FL": 1
   },
@@ -484,7 +482,7 @@
     },
     {
       "city": "New York, NY",
-      "count": 19
+      "count": 15
     },
     {
       "city": "Remote",
@@ -497,6 +495,10 @@
     {
       "city": "Menlo Park, NY",
       "count": 8
+    },
+    {
+      "city": "Seattle, WA",
+      "count": 7
     },
     {
       "city": "San Jose, CA",
@@ -519,7 +521,7 @@
       "count": 4
     },
     {
-      "city": "Seattle, WA",
+      "city": "Boston, MA",
       "count": 3
     },
     {
@@ -531,14 +533,6 @@
       "count": 3
     },
     {
-      "city": "Chicago, IL",
-      "count": 2
-    },
-    {
-      "city": "Oakland, CA",
-      "count": 2
-    },
-    {
       "city": "New York, CA",
       "count": 2
     },
@@ -547,15 +541,19 @@
       "count": 2
     },
     {
-      "city": "Boston, MA",
-      "count": 1
-    },
-    {
       "city": "Bellevue; Denver; Irvine; Los Angeles; New York; San Francisco; San Jose, CA",
       "count": 1
     },
     {
       "city": "Bellevue; New York; San Francisco, CA",
+      "count": 1
+    },
+    {
+      "city": "US-CA-Menlo Park, CA",
+      "count": 1
+    },
+    {
+      "city": "Boston, NY",
       "count": 1
     }
   ],
@@ -567,20 +565,20 @@
       "source": "greenhouse",
       "domain_score": 97,
       "salary_range": "Not listed",
-      "date_found": "2026-10-30",
+      "date_found": "2026-10-31",
       "url": "https://boards.greenhouse.io/ispottv/jobs/4727645005",
       "description": "<div class=\"content-intro\"><p><strong><span style=\"text-decoration: underline;\"><strong data-stringify-type=\"bold\">Immigration / Work Authorization Notice:</strong></span><strong data-stringify-type=\"bold\"> </strong></strong>Applicants must be currently authorized to work in the United States. iSpot is not able to sponsor or take over sponsorship of an employment visa for this position at this time.</p>\n<p>iSpot competes for the best talent. Our compensation packages consist of salary and equity in one of Seattle\u2019s hottest start-ups, as well as other standard benefits. Most importantly, we provide a really interesting working experience, and the chance to contribute to the success of something great.</p></div><p><strong>What You\u2019ll Be Part Of:</strong></p>\n<p>iSpot is the market leader in real-time TV ad measurement, providing the most comprehensive and actionable data to the advertising industry\u2019s top brands, agencies, and media companies. We are seeking a seasoned and curious Senior Product Manager to join our team and help shape the next generation of identity-powered measurement across CTV and streaming.</p>\n<p>This is a high-impact individual contributor role at the intersection of identity resolution, outcomes measurement, and performance optimization, a space that is evolving rapidly as the industry navigates privacy-first data collaboration. You will own and drive major product features end-to-end, partnering closely with engineering, data science, and go-to-market teams to build solutions that matter to our clients.</p>\n<p>You are a product practitioner who thrives in complex, data-rich environments. You have hands-on experience with data clean rooms - such as Amazon Marketing Cloud (AMC) or Google Ads Data Hub (ADH) - and understand how identity underpins every layer of modern TV measurement. You are ready to lead, influence, and deliver.</p>\n<p><strong>Responsibilities:</strong></p>\n<p><strong>Product Strategy and Roadmap: </strong>Lead the strategy and execution of major product features within iSpot\u2019s identity and measurement portfolio. Influence broader product vision and align your roadmap with business goals and client needs.</p>\n<p><strong>Identity &amp; Clean Room Expertise: </strong>Serve as the product owner for capabilities that leverage data clean rooms (e.g., AMC, ADH) and identity resolution frameworks to enable privacy-safe audience measurement and optimization. Define requirements and work with engineering and data science to brin"
     },
     {
       "company": "Roku",
       "title": "Senior Product Manager, Advertising \u2013 Exchange Optimization",
-      "location": "New York, New York",
+      "location": "Boston, Massachusetts",
       "source": "greenhouse",
-      "domain_score": 82,
+      "domain_score": 92,
       "salary_range": "Not listed",
       "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/roku/jobs/8145007",
-      "description": "<div class=\"content-intro\"><h2 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;\">Teamwork makes the stream work.</h2>\n<p>&nbsp;</p>\n<h3 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif;\"><strong>Roku is changing how the world watches TV</strong></h3>\n<p>Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.</p>\n<p>From your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.</p>\n<p>&nbsp;</p></div><h3 class=\"mt-6 mb-2 font-semibold text-xl\" data-streamdown=\"heading-3\"><span class=\"font-semibold\" data-streamdown=\"strong\">About the role</span></h3>\n<p class=\"text-neutral-900 dark:text-neutral-200 my-2.5 last:mb-0 first:mt-0 \">Roku is seeking a Senior Product Manager to lead exchange optimization initiatives within Roku's advertising platform, driving programmatic CTV innovation at scale. In this role, you will own the strategy and execution for how Roku's exchange delivers optimal outcomes for advertisers, maximizes revenue, and operates efficiently across a real-time bidding environment powered by more than 100 million household devices. You will pioneer projects across traffic shaping, dynamic price floors, deal optimization, and outcome-driven auction mechanics, partnering closely with data science, engineering, and demand partner teams. You will define product requirements, design experimentation frameworks, and translate complex advertiser and marketplace signals into algorithmic improvements that balance yield, latency, and user experience. This is a unique opportunity for a product leader who deeply understands programmatic ad tech ecosystems to shape how Roku collaborates with the world's leading ad tech companies and industry groups such as the IAB Tech Lab. The ideal candidate thrives in technically complex environments, brings a strategic mindset paired with strong execution skills, and is energized by build"
+      "url": "https://boards.greenhouse.io/roku/jobs/8146077",
+      "description": "<div class=\"content-intro\"><h2 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;\">Teamwork makes the stream work.</h2>\n<p>&nbsp;</p>\n<h3 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif;\"><strong>Roku is changing how the world watches TV</strong></h3>\n<p>Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.</p>\n<p>From your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.</p>\n<p>&nbsp;</p></div><h3 class=\"mt-6 mb-2 font-semibold text-xl\" data-streamdown=\"heading-3\"><span class=\"font-semibold\" data-streamdown=\"strong\">About the role</span></h3>\n<p class=\"text-neutral-900 dark:text-neutral-200 my-2.5 last:mb-0 first:mt-0 \">Roku is seeking a Senior Product Manager to lead exchange optimization initiatives within Roku's advertising platform, driving programmatic CTV innovation at scale. In this role, you will own the strategy and execution for how Roku's exchange delivers optimal outcomes for advertisers, maximizes revenue, and operates efficiently across a real-time bidding environment powered by more than 100 million household devices. You will pioneer projects across traffic shaping, dynamic price floors, deal optimization, and outcome-driven auction mechanics, partnering closely with data science, engineering, and demand partner teams. You will define product requirements, design experimentation frameworks, and translate complex advertiser and marketplace signals into algorithmic improvements that balance yield, latency, and user experience. This is a unique opportunity for a product leader who deeply understands programmatic ad tech ecosystems to shape how Roku collaborates with the world's leading adtech companies and industry groups such as the IAB Tech Lab. The ideal candidate thrives in technically complex environments, brings a strategic mindset paired with strong execution skills, and is energized by buildi"
     },
     {
       "company": "Roku",
@@ -633,7 +631,7 @@
       "source": "greenhouse",
       "domain_score": 73,
       "salary_range": "Not listed",
-      "date_found": "2026-10-30",
+      "date_found": "2026-10-31",
       "url": "https://boards.greenhouse.io/instacart/jobs/8120469",
       "description": "<div class=\"content-intro\"><p><strong>We're transforming the grocery industry</strong></p>\n<p><span class=\"im\">At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.</span></p>\n<p>Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table.</p>\n<p><strong>Instacart is a Flex First team </strong></p>\n<p>There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. <a href=\"https://www.instacart.careers/flex-first\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://instacart.careers/remote/&amp;source=gmail&amp;ust=1651869232122000&amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e\">Learn more about our flexible approach to where we work.</a></p></div><h2><strong>Overview</strong></h2>\n<p>Instacart Ads is one of the fastest-growing and most strategically important parts of the Instacart business. Our Ads organization brings together product, engineering, data science, design, sales, and strategy to build a world-class advertising ecosystem \u2014 one that serves brands, retailers, and agencies looking to reach millions of shoppers at the point of purchase.</p>\n<p>The Advertiser &amp; Partner Experience (APEX) team sits at the heart of this ecosystem. We own the flows and tools that advertisers use to create, manage, optimize, and understand the value they derive from campaigns and promotions across Instacart Ads. Our scope spans Ads Manager and its APIs, advertiser-facing reporting and insights, retailer advertising products, and Carrot Ads \u2014 a growing suite of tools that enables retailers to monetize their own e-commerce sites using Instacart's ad tech, brand partnerships, and expertise.</p>\n<p>We're looking for a Senior Product Manager to own a criti"
     },
@@ -706,13 +704,13 @@
     {
       "company": "Roku",
       "title": "Senior Product Manager, Brand Outcomes, Video and Native Advertising",
-      "location": "San Jose, California",
+      "location": "Boston, Massachusetts",
       "source": "greenhouse",
       "domain_score": 59,
       "salary_range": "Not listed",
       "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/roku/jobs/8328674",
-      "description": "<div class=\"content-intro\"><h2 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;\">Teamwork makes the stream work.</h2>\n<p>&nbsp;</p>\n<h3 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif;\"><strong>Roku is changing how the world watches TV</strong></h3>\n<p>Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.</p>\n<p>From your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.</p>\n<p>&nbsp;</p></div><p><strong>About the team</strong></p>\n<p>The Ads Product team monetizes Roku's platform through innovative advertising solutions across the Roku TV experience, including its premiere streaming service, The Roku Channel, on Roku devices and off-platform. Collectively, these products reach millions of users daily, creating valuable advertising inventory and engagement opportunities throughout the entire Roku ecosystem.</p>\n<p>&nbsp;</p>\n<p><strong>About the role</strong></p>\n<p>Brand campaigns are bought on reach and judged after they end. We want them to work harder. The measurement is already in place, with viewer polls and standing holdouts. The tools that act on it are yours to build: an ad system that optimizes toward awareness, recall, and lift while a campaign runs, proves the result with holdouts, and lets advertisers check the proof with their own tools.</p>\n<p>You will own the products behind that across Roku's in-stream video and native ads. These campaigns are bought on impressions and judged on reach, awareness, recall, consideration, and brand lift. You will build the cross-surface campaign experience, the models that optimize delivery toward lift, and the holdouts and third-party measurement that prove it. You will work closely with data science and engineering, and with the performance video product team, to define where brand ends and performance begins.</p>\n<p>The goal is a brand campaign on Roku that works"
+      "url": "https://boards.greenhouse.io/roku/jobs/8329310",
+      "description": "<div class=\"content-intro\"><h2 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif; color: #662d91;\">Teamwork makes the stream work.</h2>\n<p>&nbsp;</p>\n<h3 style=\"font-family: GothamBold,Helvetica,Arial,sans-serif;\"><strong>Roku is changing how the world watches TV</strong></h3>\n<p>Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.</p>\n<p>From your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.</p>\n<p>&nbsp;</p></div><p><strong>About the team</strong></p>\n<p>The Ads Product team is responsible for monetizing Roku's platform through innovative advertising solutions across the Roku TV experience, including its premiere streaming service, The Roku Channel, on both Roku devices and off-platform environments. Collectively, these products reach millions of users daily, creating valuable advertising inventory and engagement opportunities throughout the entire Roku ecosystem.</p>\n<p>&nbsp;</p>\n<p><strong>About the role</strong></p>\n<p>Brand campaigns are bought on reach and judged after they end. We want them to work harder. The measurement is already in place, with viewer polls and standing holdouts. The tools that act on it are yours to build: an ad system that optimizes toward awareness, recall and lift while a campaign runs, proves the result with holdouts, and lets advertisers check the proof with their own tools.</p>\n<p>You will own the products behind that across Roku's in-stream video and native ads. These campaigns are bought on impressions and judged on reach, awareness, recall, consideration and brand lift. You will build the cross-surface campaign experience, the models that optimize delivery toward lift, and the holdouts and third-party measurement that prove it. You will work closely with data science and engineering, and with the performance video product team on where brand ends and performance begins.</p>\n<p>The goal is a brand"
     },
     {
       "company": "Pinterest",
@@ -737,17 +735,6 @@
       "description": "<div class=\"content-intro\"><p><strong>About Pinterest:</strong></p>\n<p>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.</p>\n<p>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp;<a href=\"https://www.pinterestcareers.com/our-life/pinflex/\">flexibility</a> to do your best work. Creating a career you love? It\u2019s Possible.</p>\n<p>At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI.</p>\n<p>Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process <a href=\"https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/\">here</a>.</p></div><p>Billions of dollars flow through Retail Media Networks (RMNs) onto advertising platforms like Pinterest every year, but it can be a sub-par experience for the RMN, the brand advertiser, and for Pinterest.&nbsp; The RMN\u2019s fees are hidden, campaign setup and management is manual and slow, and Pinterest gets left out of most of the relationship.&nbsp; Pinterest Media Network Connect (PMNC) is Pinterest\u2019s solution to this problem, with complete transparency and self-service capabilities.&nbsp; Pinterest was the first to do this style of solution to the problem, and it is being copied by larger adverting platforms as a result, so we know we\u2019re on the right path.</p>\n<p>&nbsp;</p>\n<p>But changing the retail media network business is not enough.&nbsp; We have ambitions to support a fully transparent, fully self-service audience marketplace, where anyone can transact with anyone else to empower their campaigns with audiences that enhance their performance and reach.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>You, as the lead for PMNC and audience marketplace, will grow our RMN offerings and build the audience marketplace busines"
     },
     {
-      "company": "Instacart",
-      "title": "Senior Product Manager, Catalog",
-      "location": "United States - Remote",
-      "source": "greenhouse",
-      "domain_score": 55,
-      "salary_range": "Not listed",
-      "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/instacart/jobs/8143270",
-      "description": "<div class=\"content-intro\"><p><strong>We're transforming the grocery industry</strong></p>\n<p><span class=\"im\">At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.</span></p>\n<p>Instacart has become a lifeline for millions of people, and we\u2019re building the team to help push our shopping cart forward. If you\u2019re ready to do the best work of your life, come join our table.</p>\n<p><strong>Instacart is a Flex First team </strong></p>\n<p>There\u2019s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work\u2014whether it\u2019s from home, an office, or your favorite coffee shop\u2014while staying connected and building community through regular in-person events. <a href=\"https://www.instacart.careers/flex-first\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://instacart.careers/remote/&amp;source=gmail&amp;ust=1651869232122000&amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e\">Learn more about our flexible approach to where we work.</a></p></div><h2><strong>Overview</strong></h2>\n<p>The Instacart Catalog team is the product data infrastructure powering everything customers see, find, and trust across the marketplace. We ingest data from retailers and third-party sources and use AI/ML and human operations to validate, enrich, and publish product information at scale. At the heart of this infrastructure are product attributes \u2014 the structured descriptors that power search filters, item card badges, dietary safety signals, health personalization, brand advertising, and agentic commerce. They touch every major surface and every major stakeholder.</p>\n<p>We're looking for a Senior Product Manager to own the product data layer that determines how customers find what they need, how brands show up on shelf, and how Instacart earns trust as the definitive source of grocery product data. In this role, you'll set the end-to-end strategy for catalog attributes, lead governance, and drive accuracy and coverage at scale \u2014 building the kind of trust that b"
-    },
-    {
       "company": "The Trade Desk",
       "title": "Staff Product Manager, Budget and Pacing",
       "location": "New York",
@@ -759,26 +746,26 @@
       "description": "<div class=\"content-intro\"><p>The Trade Desk is a global technology company and the world\u2019s leading independent platform for digital advertising, with over 3,000 employees across more than 30 offices. Our technology helps advertisers reach the right audiences across the open internet \u2014 from streaming TV and podcasts to mobile apps, news, and more.&nbsp; <br><br>Advertising powers the content people love. By making it more transparent, effective, and responsible, we help support trusted journalism, quality entertainment, and creators worldwide. The world\u2019s brands and agencies rely on us to reach their customers and grow their businesses responsibly. <br><br>The scale of our platform brings unique technical challenges \u2014 from processing massive datasets in real time to building systems that operate reliably on a global scale. When you work here, your impact is worldwide. We welcome diverse perspectives, encourage curiosity, and build teams that learn from one another. If you\u2019re driven to solve meaningful challenges, we\u2019d love to meet you.</p></div><p>&nbsp;</p>\n<p><strong><span data-contrast=\"none\">WHO WE ARE LOOKING FOR</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559738&quot;:320,&quot;335559739&quot;:160,&quot;335559740&quot;:240,&quot;335572079&quot;:8,&quot;335572080&quot;:4,&quot;335572081&quot;:16423168,&quot;469789806&quot;:&quot;single&quot;}\">&nbsp;</span></p>\n<p>Every campaign on our platform has a budget and a flight, and our pacing system decides in real time how to spend it against 20M queries per second. Our job is to bid the right amount on every impression and at the right rate, so advertisers spend their budget in full and get the most value from it.<br><br>We are looking for an experienced product manager that understands the full lifecycle of a campaign, from an IO all the way to reporting. Pacing behaves differently depending on how the inventory is bought, whether that\u2019s open auction, deals or commitments, and on the channel it runs in, with live events adding constraints of their own. Your job is to make the system handle all of it without the advertiser having to think about any of it.</p>\n<p><span data-contrast=\"none\">You will work with our CS &amp; BD teams to understand customer needs,&nbsp;execute on&nbsp;them with the engineering, UX and applied science teams then collaborate with GTM &amp; PMM teams to bring them to life and drive adoption. You will&nbsp;be responsible for&nbsp;ensuring that clients can "
     },
     {
-      "company": "Lyft",
-      "title": "Staff Product Manager I, Ad Serving",
-      "location": "New York, NY",
-      "source": "greenhouse",
-      "domain_score": 52,
-      "salary_range": "Not listed",
-      "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/lyft/jobs/8594167002",
-      "description": "<p>At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.&nbsp;</p>\n<p>Lyft Ads is building the world's largest mobility advertising network, connecting brands with millions of consumers throughout their transportation journeys. Our mission is to help brands reach riders during key moments of their journey \u2014 before, during, and after a ride \u2014 by delivering meaningful, contextually relevant ad experiences. Core to that vision is our ad serving platform. Our Ad Serving team builds the systems and integrations that power the delivery of ads, being both thoughtful of our riders\u2019 experience while also driving great outcomes for advertisers. We\u2019re looking for a Staff Product Manager I to architect and reimagine our ad serving platform so that our rapidly growing advertising business can continue to scale. Based out of our New York City office, you\u2019ll own development and the forward-looking vision for the platform that connects advertisers and riders, help us accelerate our capabilities, and execute across a whip-smart, fast-paced team.&nbsp;</p>\n<h2>Responsibilities:</h2>\n<ul>\n<li>Help develop the strategy and objectives for our Ad Serving platform. Build a roadmap and lead a core team of engineers and data scientists to achieve it.</li>\n<li>Align cross functional partners and teams beyond your immediate development team to drive a shared vision. For example, Sales, Legal, Finance, Operations, and internal marketing teams.&nbsp;</li>\n<li>Take a holistic yield management approach across direct demand and external supply channels.&nbsp;</li>\n<li>Clearly communicate priorities, problems, experiments, and decisions across a wide spectrum of audiences, from partner teams to executives.&nbsp;</li>\n</ul>\n<ul>\n<li>Completely own your team's products, existing or new, from ideation through development, launch, growth, and maintenance.</li>\n<li>Understand Lyft Ads\u2019 strategic and competitive position. Set your team's goals, success metrics, and roadmap to align with Lyft's mission and drive maximum impact based on data analysis, market research and usability studies.</li>\n<li>Serve as a champion of our advertisers and advocate for their needs at all levels of the company.</li>\n</ul>\n<h2>Experience:</h2>\n<ul>\n<li>8+ years of product management with a record of launching and scaling ad platforms from 0 to 1.&nbsp;</li>\n<li>Deep expertise in either real-time biddi"
-    },
-    {
       "company": "Braze",
       "title": "Lead Product Manager, Banners & Content Cards",
-      "location": "Chicago",
+      "location": "San Francisco",
       "source": "greenhouse",
       "domain_score": 50,
       "salary_range": "Not listed",
-      "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/braze/jobs/8209240",
+      "date_found": "2026-10-31",
+      "url": "https://boards.greenhouse.io/braze/jobs/8209242",
       "description": "<div class=\"content-intro\"><p>At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew.</p>\n<p>We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization.</p>\n<p>To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.</p>\n<p>Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.</p>\n<p>If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can\u2019t wait to meet you.</p></div><h4>WHAT YOU'LL DO</h4>\n<p>We're looking for a Lead Product Manager to lead the Banners team, which owns Braze's in-product messaging surfaces: Content Cards and Banners.</p>\n<p>These are the channels that reach users inside the app experience rather than outside it. They're persistent, native, and always available, with no opt-in required and no deliverability tax. Content Cards is a mature, widely adopted surface. Banners is our newest channel and our fastest growing, having gone from launch to full feature parity with Content Cards in under a year, and now serving well over a billion impressions a day.</p>\n<p>Braze operates at massive scale, collecting hundreds of billions of data points each month and sending billions of messages to end users daily. In-product surfaces are a growing share of that. The constraint on this part of the business is no longer capability. It's adoption, programmability, and making creation genuinely fast.</p>\n<p>The goal here is to find someone who can take a portfolio that's technically deep and commercially material, and push it into its next phase. Here's what you'd focus on in your first year:</p>\n<ul>\n<li>Drive adoption, not just delivery. The work is turning shipped capability into activated customers and sustained usage. That means better defaults, faster time to first banner, self-serve setup, and out-of-the-box"
+    },
+    {
+      "company": "Datadog",
+      "title": "Staff Product Manager, Metering and Attribution",
+      "location": "New York, New York, USA",
+      "source": "greenhouse",
+      "domain_score": 47,
+      "salary_range": "Not listed",
+      "date_found": "2026-10-30",
+      "url": "https://boards.greenhouse.io/datadog/jobs/8337954",
+      "description": "<p>Revenue Engineering builds the platform that measures how customers use Datadog and turns that measurement into usage and cost data they can act on. Every product Datadog ships is metered here. Every customer who wants to see which team, service, or business unit drove their usage sees it through this layer.</p>\n<p>As a <strong>Staff Product Manager</strong> for <strong>Metering and Cost Attribution</strong>, you will own product direction for that platform. You will set the standard for how usage is measured, attributed, and presented across Datadog.</p>\n<p>The role starts with tagging: the mechanism customers use to attribute usage to owners inside their organization, and the foundation that cost allocation, chargeback, quotas, and governance build on. From there you will shape the metering capabilities that new pricing and packaging models draw on, and extend the platform's speed and scale as Datadog's portfolio grows. Over time you will own the vision and roadmap for a usage platform used by every team at Datadog and relied on by every customer.</p>\n<p>The usage layer is the system of record for consumption, and it is what billing draws from. What you own is the path from usage events to billable output, along with the consumption models, cost attribution, and usage analytics that customers and their finance teams use to understand their spend. You will partner closely with the billing platform team across that boundary.</p>\n<p>Usage and cost attribution reach across a broad portfolio of billable metrics, several regions, and customers organized into parent and child organizations and reseller hierarchies, and they surface in units and in dollars, in-app, through the API, and in agentic workflows. Designing for that range means making deliberate choices about granularity, timeliness, and flexibility, and holding those choices steady across the many teams that build on them.</p>\n<p>This is a highly visible individual contributor role spanning several engineering teams, every product vertical that emits billable telemetry, and partners in Sales, Support, and Finance.</p>\n<h3><strong>What You'll Do:</strong></h3>\n<ul>\n<li><strong>Set product direction for metering and attribution</strong> by defining the problems and outcomes that matter from usage events through billable output, holding a multi-quarter view of how the platform should evolve, and collaborating with multiple engineering teams to sequence work into phases that deliver clear customer valu"
     },
     {
       "company": "Datadog",
@@ -798,7 +785,7 @@
       "source": "greenhouse",
       "domain_score": 47,
       "salary_range": "Not listed",
-      "date_found": "2026-10-30",
+      "date_found": "2026-10-31",
       "url": "https://boards.greenhouse.io/elastic/jobs/8316745",
       "description": "<div class=\"content-intro\"><p>Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.</p></div><div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8a6km-0-0\"><strong><span data-offset-key=\"8a6km-0-0\"><span data-text=\"true\">What is The Role</span></span></strong></div>\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"8a6km-0-0\">&nbsp;</div>\n<div class=\"p\" data-block=\"true\" data-editor=\"5otm0\" data-offset-key=\"9adrd-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"9adrd-0-0\"><span data-offset-key=\"9adrd-0-0\"><span data-text=\"true\">We're looking for a Principal Product Manager to own how Elastic Security is packaged, priced, and sold on Elastic Cloud Serverless.</span></span></div>\n</div>\n<div class=\"p\" data-block=\"true\" data-editor=\"5otm0\" data-offset-key=\"cbq6v-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"cbq6v-0-0\"><span data-offset-key=\"cbq6v-0-0\"><span data-text=\"true\">More customers want to run SIEM, endpoint, and cloud security on Serverless, and the commercial model decides whether that growth is profitable. You will own the security solution layer on top of the Serverless platform: the tiers, the meters, the margins, and what it is like for a customer to pay for security on a consumption model. The Platform team owns the underlying architecture. You will work with them so that what we sell can be delivered at a healthy margin and quoted with confidence.</span></span></div>\n</div>\n<div class=\"p\" data-block=\"true\" data-editor=\"5otm0\" data-offset-key=\"cmok3-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"cmok3-0-0\"><span data-offset-key=\"cmok3-0-0\"><span data-text=\"true\">We are changing how we price and package, and you will help design the new model. You own the pric"
     },
@@ -809,7 +796,7 @@
       "source": "greenhouse",
       "domain_score": 46,
       "salary_range": "Not listed",
-      "date_found": "2026-10-30",
+      "date_found": "2026-10-31",
       "url": "https://boards.greenhouse.io/reddit/jobs/8120503",
       "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\">\n<div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\">\n<div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\">\n<div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\">\n<div class=\"p-rich_text_block\">\n<div class=\"p-rich_text_section\">Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet\u2019s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div>\n</div>\n</div>\n</div>\n</div>\n</div></div><p><strong>The Team:</strong><strong><br></strong>Shopping at Reddit is one of the company's biggest bets. Shopping is core to Reddit's monetization strategy and Dynamic Product Ads (DPA) is one of our fastest-growing verticals. The Shopping product org has end-to-end ownership of how advertisers and Redditors interact with products and purchasing decisions. Our strategy is built on Reddit's unique strength - authentic, community-generated content.<br><br><strong>The Opportunity:</strong><strong><br></strong>The Product Catalog is the single source of truth for product data across paid and organic Shopping. It powers paid and organic shopping products and the Product Knowledge Graph (PKG). We're hiring a Product Manager to own Catalogs and Applied PKG end-to-end. The aspiration is to turn this asset into a platform that drives ROAS and powers product discovery across Reddit.<br><br>This role sits at the intersection of advertiser tooling, product &amp; content understanding and user experiences. You will partner deeply with the Catalogs engineering team, the Ads Content Understanding (ACU) team, and the Shopping product team across performance, formats and more.</p>\n<h4><strong>What You'll Do:</strong></h4>\n<p>&nbsp;</p>\n<ul>\n<li><strong>Cut advertiser onboarding friction and prepare for the next phase of Shopping @ Reddit.</strong> Move catalog onboarding from days to hours through better error handling, automated feed"
     },
@@ -820,7 +807,7 @@
       "source": "greenhouse",
       "domain_score": 45,
       "salary_range": "Not listed",
-      "date_found": "2026-10-30",
+      "date_found": "2026-10-31",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8200670",
       "description": "<div class=\"content-intro\"><h3>About Us</h3>\n<p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p>\n<p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Locations:</strong> London, Lisbon, or New York</p>\n<h3>About the Role</h3>\n<p>As a Senior Product Manager for Application Protection &amp; Governance, you\u2019ll join our core Application Security team to protect web, API applications against evolving abuse and threat patterns. You will own the product outcomes that help customers deploy, operate, and improve security controls over time, turning complex security requirements into practical capabilities and operational guidance.</p>\n<p>In this role, you will partner with engineering, security specialists and the go-to-market organization to define product direction and drive adoption across areas including web, LLM and API protection (for example, profiling and validation of traffic patterns, schema-aware enforcement, and reducing risks from interconnected third- and fourth-party integrations). You\u2019ll also establish measur"
     },
@@ -864,31 +851,42 @@
       "source": "workday",
       "domain_score": 42,
       "salary_range": "$148K-$282K",
-      "date_found": "2026-10-29",
+      "date_found": "2026-10-30",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Pro-Design-Principal-Product-Manager--Growth_R171088",
       "description": "The Opportunity \u00a0 We're \u00a0 building the growth engine behind our professional design tools and emerging creative products . \u00a0 This is a newly created, growth-focused product management role, concentrated \u00a0 on \u00a0 acquisition , activation, and monetization \u00a0 for our apps. \u00a0 You'll \u00a0 report to the product director \u00a0 for this \u00a0 business line, \u00a0 building \u00a0 the growth function \u00a0 from \u00a0 the ground up, \u00a0 partnering \u00a0 closely with data science , \u00a0 product marketing , \u00a0 and the \u00a0 product, design and \u00a0 eng \u00a0 teams working \u00a0 on \u00a0 our apps .\u00a0 \u00a0 What You'll Do \u00a0 Own this product's growth strategy \u00a0 end \u00a0 to end: acquisition (including migrating an existing adjacent user base), activation, retention, and monetization, from private beta through the push to general availability. \u00a0 Build the growth measurement and experimentation foundation, partnering with a data science function to instrument the funnel, define metrics, and stand up \u00a0 an \u00a0 experimentation practice. \u00a0 Work with \u00a0 PMM \u00a0 to define \u00a0 and drive the monetization strategy, in partnership with that platform's product team. \u00a0 Run growth experiments end to end, from hypothesis through analysis through shipped change, balancing big bets that could shift the growth trajectory with quick wins that remove everyday friction. \u00a0 Ground growth prioritization in research the team already has (audience segmentation, competitive studies, beta-user profiling) rather than starting from a blank page, and \u00a0 commission \u00a0 new research to close real gaps. \u00a0 Partner with engineering, design, and marketing to ship growth work cleanly, and track how adjacent creative and design tools are \u00a0 moving \u00a0 so this product's growth story stays differentiated rather than reactive. \u00a0 As scope broadens, extend the same growth strategy and measurement discipline to a second product and the wider portfolio it sits in. \u00a0 What You'll Need to Succeed:  6+ years in product management with a growth \u00a0 focus , including direct ownership of acquisition, activation, or monetization for a freemium or subscription product. \u00a0 A track record \u00a0 of running structured growth experiments (A/B testing, funnel analysis) and turning results into shipped product decisions, not just a readout. \u00a0 Strong analytical abilities and comfort partnering directly with data science to define metrics and build \u00a0 measurement \u00a0 from the ground up. \u00a0 Experience with monetization, pricing, or packaging strategy, ideally including usage-based or credit-based models. \u00a0 Strong cross-functio"
     },
     {
-      "company": "Fivetran",
-      "title": " Staff Product Manager - dbt v2",
-      "location": "Oakland, California, United States",
+      "company": "Pinterest",
+      "title": "Sr. Staff Product Manager, Ads Quality Ranking",
+      "location": "Palo Alto, CA, US; Seattle, WA, US",
       "source": "greenhouse",
-      "domain_score": 42,
+      "domain_score": 41,
       "salary_range": "Not listed",
       "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/fivetran/jobs/7975436003",
-      "description": "<div class=\"content-intro\"><p>From Fivetran\u2019s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We\u2019re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><strong>About Us</strong><br>Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.<br><br>Together, we\u2019re delivering the data infrastructure layer that helps organizations move, transform, and trust their data \u2014 from the moment data moves, through every transformation, to the context teams and AI systems rely on.<br><br>Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.<br><br>As we bring our teams and technology together, we\u2019re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It\u2019s an exciting time to join us: we\u2019re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.<br><br>During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</p>\n<p><strong>About the role</strong></p>\n<p>We're hiring a Product Manager to lead the dbt v2 roadmap \u2014 the future of dbt Labs' intellectual property and a critical driver of product-led growth. You will own net-new functionality in Fusion that identifies and monetizes local deployments of dbt, shipping net new features, many of which also land in dbt Core, as well as proprietary ELv2 plugins that integrate seamlessly with the dbt platform.</p>\n<p>This role is co-located with our dbt v2 engineering team in the US to accelerate execution, strengthen prioritization, and ensure tight alignment across product, engineering, and platform teams. You'll bridge open source product strategy with technical delivery and business impact, transl"
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7986197",
+      "description": "<div class=\"content-intro\"><p><strong>About Pinterest:</strong></p>\n<p>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.</p>\n<p>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp;<a href=\"https://www.pinterestcareers.com/our-life/pinflex/\">flexibility</a> to do your best work. Creating a career you love? It\u2019s Possible.</p>\n<p>At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI.</p>\n<p>Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process <a href=\"https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/\">here</a>.</p></div><p>The Ads Quality team helps Pinners move from inspiration to action by showing the right ad at the right time.&nbsp; We are at the core of the entire ads system optimizing for Pinner, Advertiser, and Pinterest value.&nbsp; The output of this work will both be highly impactful (driving measurable value for Pinners and Advertisers) and highly visible (your launches will change the way the app looks and feels), and will critically contribute to our mission of helping hundreds of millions of people find the inspiration to create a life they love.&nbsp;</p>\n<p><br><br></p>\n<p>The ideal candidate has a passion for delighting our Pinners and strong intuition about what matters most to their experience.&nbsp; In addition, they must possess a deep understanding of the back-end systems, have worked cross functionally with engineering, data teams, and PMM and understand&nbsp; the interaction effects of introducing qualitatively different content onto the page, and tradeoff dynamics of the ads marketplace.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>What you\u2019ll do:&nbsp;</strong></p>\n<ul>\n<li><strong>Own</strong> a vision for "
     },
     {
-      "company": "Fivetran",
-      "title": "Staff Product Manager - dbt v2",
-      "location": "Remote, Colorado, United States, AMER",
+      "company": "Pinterest",
+      "title": "Staff Product Manager, Ads Quality Ranking",
+      "location": "Palo Alto, CA, US; Seattle, WA, US",
       "source": "greenhouse",
-      "domain_score": 42,
+      "domain_score": 41,
       "salary_range": "Not listed",
       "date_found": "2026-10-30",
-      "url": "https://boards.greenhouse.io/fivetran/jobs/7787885003",
-      "description": "<div class=\"content-intro\"><p>From Fivetran\u2019s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We\u2019re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><strong>About Us</strong><br>Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.<br><br>Together, we\u2019re delivering the data infrastructure layer that helps organizations move, transform, and trust their data \u2014 from the moment data moves, through every transformation, to the context teams and AI systems rely on.<br><br>Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.<br><br>As we bring our teams and technology together, we\u2019re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It\u2019s an exciting time to join us: we\u2019re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.<br><br>During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</p>\n<p><strong>About the role</strong></p>\n<p>We're hiring a Product Manager to lead the dbt v2 roadmap \u2014 the future of dbt Labs' intellectual property and a critical driver of product-led growth. You will own net-new functionality in Fusion that identifies and monetizes local deployments of dbt, shipping net new features, many of which also land in dbt Core, as well as proprietary ELv2 plugins that integrate seamlessly with the dbt platform.</p>\n<p>This role is co-located with our dbt v2 engineering team in the US to accelerate execution, strengthen prioritization, and ensure tight alignment across product, engineering, and platform teams. You'll bridge open source product strategy with technical delivery and business impact, transl"
+      "url": "https://boards.greenhouse.io/pinterest/jobs/7985302",
+      "description": "<div class=\"content-intro\"><p><strong>About Pinterest:</strong></p>\n<p>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.</p>\n<p>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp;<a href=\"https://www.pinterestcareers.com/our-life/pinflex/\">flexibility</a> to do your best work. Creating a career you love? It\u2019s Possible.</p>\n<p>At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI.</p>\n<p>Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process <a href=\"https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/\">here</a>.</p></div><p>The Ads Quality team helps Pinners move from inspiration to action by showing the right ad at the right time.&nbsp; We are at the core of the entire ads system optimizing for Pinner, Advertiser, and Pinterest value.&nbsp; The output of this work will both be highly impactful (driving measurable value for Pinners and Advertisers) and highly visible (your launches will change the way the app looks and feels), and will critically contribute to our mission of helping hundreds of millions of people find the inspiration to create a life they love.&nbsp;</p>\n<p>The ideal candidate has a passion for delighting our Pinners and strong intuition about what matters most to their experience.&nbsp; In addition, they must possess a deep understanding of the back-end systems, have worked cross functionally with engineering, data teams, and PMM and understand&nbsp; the interaction effects of introducing qualitatively different content onto the page, and tradeoff dynamics of the ads marketplace.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>What you\u2019ll do:&nbsp;</strong></p>\n<ul>\n<li><strong>Own</strong> a vision for new and existing"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Staff Product Manager, Atlas Infinite",
+      "location": "United States",
+      "source": "greenhouse",
+      "domain_score": 41,
+      "salary_range": "Not listed",
+      "date_found": "2026-10-30",
+      "url": "https://boards.greenhouse.io/mongodb/jobs/8274029",
+      "description": "<p>The Staff Product Manager is an Individual Contributor (IC) product leader responsible for a broad platform surface for Atlas Infinite at MongoDB. Atlas Infinite is the largest architectural innovation in MongoDB Atlas ever, purpose-built to handle today's speed and scale of development and demand.&nbsp;</p>\n<p>In this position, you will own and solve end-to-end problems around the user experience and database experience of Atlas Infinite, including but limited to feature discovery, activation, monetization, and retention. You will see patterns, opportunities, and risks across areas, own cross-team product and architectural trade-offs, establish reusable standards for PM craft, and align senior stakeholders around multi-year bets. You have deep knowledge of cloud database platforms, distributed data systems, and enterprise product development.</p>\n<p>You will partner closely with cross-functional engineering leaders, product peers, and executive stakeholders to drive outcomes across organizational boundaries, guiding a portfolio spanning Atlas Infinite's disaggregated compute and storage architecture, production workload readiness, migration and Atlas interoperability, and the new customer experiences this architecture may make possible. You will not inherit a closed list of future features: part of your mandate is to discover opportunities we have not yet articulated and challenge assumptions about which problems matter most. With AWS public preview now live, you will help turn real workload evidence into a credible path to GA and subsequent releases, in close partnership with the existing team.</p>\n<p>This role can be based out of a MongoDB office or remotely in the United States.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Interlinked Vision &amp; Multi-Year Bets: Set and champion a product vision across Atlas Infinite's capabilities, while actively discovering opportunities that are not on today's roadmap or fit any single team's remit. Explore what decoupled compute and storage could make possible for developers, enterprises, and emerging AI workloads; use hypotheses, customer evidence, prototypes, and market signals to uncover needs we have not yet named. Branching, on-demand compute, and instant recovery are examples of possible bets. Make the case for investment and prioritization, including build-vs-buy considerations, and distinguish exploratory vision from release commitments</li>\n<li>Cross-Team Execution: Along with program management, own execut"
     }
   ]
 }
